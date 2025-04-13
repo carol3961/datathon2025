@@ -1,591 +1,591 @@
-business_id,name,state,city,weekly_hours,accepts_credit_cards,price_range,wifi,takeout,outdoor_seating,bike_parking,caters,delivery,noise_level,valet_parking,other_parking
-IDtLPgUrqorrpqSLdfMhZQ,Helena Avenue Bakery,CA,Santa Barbara,36.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-VeFfrEZ4iWaecrQg6Eq4cg,Cal Taco,CA,Goleta,75.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-bdfZdB2MTXlT6-RBjSIpQg,Pho Bistro,CA,Isla Vista,77.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
--kY_HDP7IMvGl-kBIZVU4A,Dune Coffee Roasters - Anacapa,CA,Santa Barbara,76.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-3vTG6LQyr3obzfvrK1l1hA,7-Eleven,NV,Sparks,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-pxuMxh5oC7W-PDN9wwvozg,Starbucks,NV,Reno,96.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-UFpCraqzFBAhtZqmxmiWsA,Cat Therapy,CA,Santa Barbara,54.25,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
-jlkDIOPoRP9SJXTkRVpkMQ,BFF Cafe,NV,Reno,74.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-w8C_pRQvdIXQ5VRWlW2M3w,The Human Bean,NV,Reno,80.0,1.0,,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-F3dxQiOwN55rSLw-BNSq6A,Sweet Alley,CA,Goleta,77.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-CPFKi2lZJazP6IdtCdDDyg,Coffeebar,NV,Reno,75.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-Wndkw2PinAwTgjeUJOTdCg,Old World Coffee Lab - Midtown,NV,Reno,77.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-ju4YP8SLdR_BmWr_-Xh83Q,Phamous Cafe,CA,Goleta,50.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-bjhCtlYHrkgA5Ku8l-rB3g,Our Daily Bread,CA,Santa Barbara,54.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-7YiLEuHuUONZrMPT0OxXUQ,McDonald's,NV,Reno,122.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0
--utd1de-UUgQKZE4VHVLlw,Superstitions Java,NV,Reno,68.0,1.0,,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
-kf8HXRAZxtC7xVR0Tg-rhA,Num Num Boba,NV,Reno,58.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
-zxuVnNVAUm16Sro0dS_lmg,Roundabout Grill,NV,Reno,31.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0
-FYw5uf26ry8-MuPKD10z0Q,Josef's Vienna Bakery & Cafe,NV,Reno,49.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-3RtMd3VZ21WL5auDr6Jp9A,Cafe Zoma,CA,Santa Barbara,93.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-IjJSHYMgXV3ZQSAr0tn19A,Sip of Saigon,NV,Spanish Springs,57.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
-7AAUjAvOS10dMx1F_QMaew,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-cBp1fn2LXpSHe4VbTXLYEw,Bab Café - Reno,NV,Reno,60.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-mGxaM5kUC2GhYkp3Dip52Q,Dutch Bros Coffee,NV,Reno,126.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-vlqcTafHh27AuDbYtoG8rw,Un Caffé Italian Bistro,NV,Reno,32.5,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-GqQSFMLaM25zcM5OnCWnnQ,Nameless Coffee & Tea House,NV,Reno,45.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-wuzoQhym6ll3fjAiVgIJbw,Good Cup,CA,Santa Barbara,82.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-z37fpa6lh-HOIQh0MbQXag,The Mug Shot Coffee & Eatery,NV,Reno,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-PPcz-0UtIJ8O7xDT551y2g,Intermezzo By Wine Cask,CA,Santa Barbara,22.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-29YqJwOGEuAWqlHZxMc1OA,Paradise Cafe,CA,Santa Barbara,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-KiE0h68HGOO7ZXAqkMBdiw,Starbucks,CA,Santa Barbara,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-fAiPD2OIEm9wtS7uJqzu5Q,Natural Cafe,CA,Goleta,54.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0
-uVIOgGhOYozGPwpptrF3Cw,Microsoft Cafe,NV,Reno,35.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-h22117eMO-kVtCOLYYL6GA,Darkshot Coffee,NV,Reno,78.0,1.0,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
-vyyr3G874jpRYSQo2KPZow,Cristino's Bakery,CA,Goleta,71.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-MbzgGsMQpGyVrUJXi_Jw0Q,Dawn Patrol,CA,Santa Barbara,30.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-O6RCCmz8-x4NhWJpI8KQug,Breakfast Culture Club,CA,Santa Barbara,60.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-GaktVVj3HWX0sVMlCXCWZw,Swill Coffee and Wine,NV,Reno,75.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-34Eqv8jXgxg_EEwcsNgeeg,Backyard Bowls,CA,Santa Barbara,63.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-qNXAR7i6Tb3m0J0UBurj6g,The Food Liaison,CA,Carpinteria,16.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-q_CK-buoiPFNDoNNU1yb1A,Emerald City Cafe & Catering,NV,Reno,56.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
-2yhZklZm-4SmAVYRdPK4XQ,Daily Grind,NV,Reno,55.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
-RIXWht1pZG8pe1SJk5hhXw,Poke Theory SB,CA,Goleta,46.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-zMMSWTHxkLWYR359o-IuAg,The Nook,NV,Reno,24.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-agzEfydzvZWlbzpcMxLPBg,Starbucks,NV,Reno,103.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-1wvYBjX6radqmb_k0Fv_Ug,Palihouse Santa Barbara,CA,Santa Barbara,84.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-vsrryxBR2Jykl71qa1H6SQ,Caffe Primo,CA,Santa Barbara,37.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-NFFS6Qow43IRG6dRPgZCzQ,Cafe DeLuxe,NV,Reno,49.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-FkRQ735Sh9JOsHBQYXFkEw,Reno Coffee Company,NV,Reno,66.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-mcr1lAEdvGLMJhuPwI3I2A,101 Taiwanese Cuisine,NV,Reno,22.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
-ytaVHTK7kdHxUscf2PCrow,Moon Rabbit Cafe,NV,Reno,4.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
-zO0UwsrbwCLYFWpn5jZ2DA,Silver State Eatery,NV,Reno,0.0,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
-tVNP5Ap6EAypgwsiPHWW2g,Keva Juice,NV,Reno,88.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
-Ell4MNXqG3r-hwp2EtNFlw,Dragon Spring,NV,Reno,47.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-g2N8NipQpKIR4h88m2PJXw,The River View Café at the Siena,NV,Reno,0.0,1.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
-uiv7dH5PsqjOvIWr91iDDA,7-Eleven,NV,Sparks,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-alpF8d_veJy9Isk6f7wgRQ,7-Eleven,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-I_Sxmx6puRYyLS51RtLqtQ,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-IDjYyBrPW5C2CT9mXsyuBA,Daughters Cafe,NV,Reno,24.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-29t8lDBLiwkEd1HA356dOw,Bagel Cafe,CA,Goleta,52.5,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-U1Gao2oKgFaggpksDIctiQ,Walden's Coffeehouse,NV,Reno,42.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
-kXfVql_wkaS7agu6gpzEkw,Bubble Tea Station Cafe,NV,Sparks,61.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
-6afesz8yZhjOgijkWl4jig,The Coffee Bean & Tea Leaf,CA,Santa Barbara,100.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-mHqsNKj3UPMcQwGu-akL-Q,Starbucks,NV,Reno,72.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-ErvTvPF3vtLYsEqXqr0nUw,Hummus Fresh,NV,Reno,60.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-e1VGijMQdYT2JujHbf0Xbw,Kona Gold Coffee,NV,Reno,52.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-o8VR_4C-krOcgHiMoi-g6g,Einstein Bros. Bagels,NV,Reno,64.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-YcbkyXTAWjs4FwIMTUHB5A,Boss Coffee And Creamery,NV,Reno,81.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-uGo0TCVNOcDQxMArUU0Jrw,Cajun Kitchen Cafe,CA,Goleta,42.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-Js3m_GdqNUGnEgXJ8WMtfQ,Hana Kitchen,CA,Santa Barbara,80.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-jshnKTsnoXLSez5XD1qo7Q,McDonald's,CA,Santa Barbara,134.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-5RsVAkDnMrcSbErS6P1eew,Cajé Coffee Roasters - Isla Vista,CA,Isla Vista,73.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-EtGFDdjui_Hww78JU4XoXg,7-Eleven,CA,Santa Barbara,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-2RtyOlU9mwyVisvgOECaDA,Uniboil,CA,Goleta,54.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-1pd4VYTww1UWDVai2r2RKg,805 Boba,CA,Santa Barbara,49.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-DekNG7GWeU28-aMpbfJwNw,The Human Bean,NV,Reno,80.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-EzkR89g7pIm12IldI5e6gQ,The Urban Market,NV,Reno,85.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
-RX3gzXCiKOe2vI7zyB20mg,Cafe Int'l,CA,Goleta,58.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-3lty2YUwjp61iUqNgKVEMw,Marmalade Cafe,CA,Santa Barbara,76.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-NG3SFWgDgjMMpIJoQoQ3XQ,MJ Cafe,CA,Goleta,0.0,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
-lSe_4H6iy6jmnDh_I_AGCg,Hub Coffee Roasters Roastery,NV,Reno,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-nMn4CTJQPXqpgLltYQrxMA,Cajé Coffee Roasters - Haley St,CA,Santa Barbara,52.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-xQ850u4BgjrN0tpun1zGXA,Hub Coffee Roasters,NV,Reno,46.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-W8fyKHzZX68SQWFvwq_JMQ,Hub Coffee Roasters,NV,Reno,48.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-Ku1tYMgJtiURXFR_1dTtsA,Keva Juice,NV,Reno,73.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
-ZllDVefj_NbGdsMUR5LS2A,Fairly Grounded,NV,Reno,83.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-e8NRt-1C8eI85C59pKhJuA,Caffe Luxxe,CA,Santa Barbara,47.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-A2slwG21Uulatt357w58PA,Mojo Asian Fusion Café,CA,Isla Vista,46.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
-f6eBJT2jiXXBkrlHdJMbcA,Gladden and Sons Produce,CA,Santa Barbara,54.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-8qGe4GQYyZstFhYa0rvpIg,McDonald's,CA,Goleta,133.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,1.0
-RtJC7xavgAxOITQyAlGCbQ,Tri-County Produce Co,CA,Santa Barbara,84.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-N4o-T6EeZja_fIatrFwx1A,The Lodge,NV,Reno,47.0,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-lu2UpRHLBZfvLG_caNEHKQ,The Natural Cafe,CA,Santa Barbara,49.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
-PWWGbkPC_agn-4s1Hv1W5A,Handlebar Coffee Roasters,CA,Santa Barbara,50.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-gsXBNWHWhHv_f9NcwpVajw,Lighthouse Coffee,CA,Santa Barbara,70.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-zEZO2ySF7ym3rWyXBln0zQ,Outlaw Coffee,NV,Verdi,44.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-qS7uSZdQ3f0HqYSSaiYQ3A,7-Eleven,CA,Santa Barbara,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-JfXYFsOEElqn5ukwDBml6Q,Phresh Teas  - IV location,CA,Isla Vista,60.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
-AV--_bzb6m-RqUfk269DBA,7-Eleven,NV,Sparks,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
--qCCfmWdjCC16j2AQUtOzg,Se7en,NV,Reno,51.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
-p2kC-cD22QAQzIGD8ZuqFA,Peet's Coffee,CA,Santa Barbara,70.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-tjIIpbimdbi9Lrb-DoIzKg,Kaiju,CA,Isla Vista,56.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
-W8a_FYH-405MtR9_0U7sQQ,The Worker Bee Cafe II,CA,Goleta,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-7grEnJV48N6BxbEP3uxISA,Mr B Restaurant & Cafe,CA,Santa Barbara,70.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-S7Cl9gYqaC9jlw32yd4_Yg,Starbucks,CA,Santa Barbara,87.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-zWNz-y5mVcJA364mVV-XRw,Crafted Palette,NV,Reno,34.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-1Jo4UC0YNPoPm9Gfur8tQA,McDonald's,NV,Sun Valley,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-eXTIdWDxaZ4Dh7hB0--kGA,Starbucks,NV,Reno,69.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-cOoTIQ0RcudE1R5aRVZzdw,The Garden Market,CA,Carpinteria,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-gdEZfd6RFXYmmXX71RDvbA,C'est Cheese,CA,Santa Barbara,0.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-L8rhRyXtpq2nCE0il1KN_g,Coral Tree Cafe,CA,Santa Barbara,47.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
-eFn-8QlFGdkT_B-bWigtFQ,Rose Cafe,CA,Santa Barbara,79.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-M3LZKA-tVFRJyPeKA3_2OA,Merci To Go,CA,Santa Barbara,34.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-3tHYTqsJcsZ578bmcneY0A,McDonald's,NV,Reno,128.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
-lkwj0-9Sc_anMVNlnuqYAA,Mojo Coffee,CA,Goleta,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-liqVJX9k7jCqk9JohlosPw,Sierra Cafe,NV,Reno,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2pBNVsJo3a3CPbInUu9lvQ,Char West,CA,Santa Barbara,74.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-r28E3Magy-W_w2V_0jfMdA,Starbucks,NV,Reno,81.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-_T8tOBDr3NKNxd0yl5GwjA,Starbucks,CA,Goleta,110.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-XkveGZ8pr9TL5bZCqmzuhA,Hustle & Grind Coffee Company,CA,Santa Barbara,55.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
--loV4cB2Uh9TCltTRgGzWQ,Renaud's Patisserie & Bistro,CA,Santa Barbara,53.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-4uspKB1d3pGdgjOClA-UkQ,Cajun Kitchen Cafe,CA,Santa Barbara,52.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-p6yHZaiijFq4b4P3sYSRjA,Merci Montecito,CA,Montecito,42.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-FSWJmMXXKAXdL6mrc-DzBQ,Nordstrom Ebar Artisan Coffee,CA,Santa Barbara,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
-2XK7ZqKSygxnn7iDpIeRbw,Aroma Club,NV,Reno,69.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-2JBon9dZPJLF8oKkxH7KCQ,Sierra Cafe,NV,Verdi,102.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
-tARR9jhv5gi9TjsfSVmjmw,Kaffe Crepe,NV,Reno,52.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-ZQ1xusCuRoHneUw_PfZM3w,Dorinda's Chocolates - Downtown Reno,NV,Reno,54.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-XSL9RuLwRTyhNUwUo7WAPw,Starbucks,CA,Santa Barbara,129.5,0.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-upxQiiUF-6NM9jOJCxS_hg,Hennings Cake Boutique,CA,Santa Barbara,37.5,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-co28Isl2nsvX4-dd33R_yw,Starbucks,NV,Sparks,108.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-Tgq7FzfhLx97K5NBXGO5fA,McDonald's,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-wUCMIE7mRpS6oijQzJBgDg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-zNbRWVCKNe6gBShmnuAQNw,Ice Milk Company,CA,Goleta,58.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-9-1C7wFYA53uxXXYTYCbKw,Bytes,NV,Reno,72.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-2Eyu9uCg0xbitNE_d4u46g,Tahoe Roasting Company,NV,Reno,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-KobS8yqBelXH11gaIhZJSg,The Endless Summer Bar Cafe,CA,Santa Barbara,73.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0
-VgAKmXE8B7J0I_O_R13UKQ,Santa Barbara Roasting Company,CA,Santa Barbara,70.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
--JkiE867GwCUuXFETjba2w,Jack's Coffee Shop #2,NV,Reno,55.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-cPQraNrJFprte7438BpD0g,Dunkin,NV,Reno,91.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-L9CFXQbU79r6PK8Cy9aAgA,Gimeal Cafe,CA,Goleta,66.5,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
-HNtTgTEYl3kBSN5U5FHHqA,Hub Coffee Roasters,NV,Reno,61.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-F8H5zuu_eTx8KpmkgO5JAw,7-Eleven,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-IHtbAL6m1T234D-3Q-lC7g,Gao's Noodle House,NV,Spanish Springs,50.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-Iq7LZi_MCUg8xAfboc_r7g,Davidson's Organic Teas,NV,Sparks,42.5,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-qGEcvCAdOGqaHMCg5izq2w,Starbucks,NV,Reno,80.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-UOiqYBdIPRrMm-lnEbbjBg,Bibo Coffee Co,NV,Reno,105.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-qKvQzhukpomdY3ITSSJ5eg,"1, 2, Tea",NV,Reno,54.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
-Un-UDVOuv1co3TMmGaumxA,Shoreline Beach Cafe,CA,Santa Barbara,62.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-jKEZv7ID6c5oDPIE30BS4A,Dutch Bros Coffee,NV,Reno,126.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-lLDB5H7_Uqpc9hUd_A3Xaw,Biggest Little Boba Shop,NV,Reno,46.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-RP8JKUeQHwz_aRYjmipokw,Donut Bistro,NV,Sparks,112.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-613euL4IockQDQ3tFi_M6A,Record Street Cafe,NV,Reno,0.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
--TSPsir3LSLO9vVBkvkqUw,The Coffee Bean & Tea Leaf,CA,Carpinteria,107.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-R6IRHj65pEE-YJHVudBuVQ,Starbucks,NV,Reno,97.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-CbpT0UHGugQdpfK5HUekew,Austin's Restaurant,NV,Reno,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
--bxLBGgtchd-O6-2CdDThA,Coffee N’ Comics,NV,Reno,85.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
-vLKZGIQYKaTDxcY5shttWg,Starbucks,NV,Reno,101.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-e1l1IlKpL7FJlM4ivnoO2g,Bubble Tea Station Cafe,NV,Reno,52.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-IZZ7J14VnJGyUqYH1tgT6w,Satellite,CA,Santa Barbara,47.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-ReKQjTVB8L2vnaxZKmRUpQ,The Original Mels - Reno,NV,Reno,123.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-kxxexMsFL4xJLIafhXXFlw,Esau's Cafe,CA,Santa Barbara,109.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-QCaidu0NAS_sseca_xe4hQ,Walden's Coffeehouse,NV,Reno,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-RpxJ4-rYuqAI2an7WGELFQ,Starbucks,NV,Reno,48.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-Tpr8CltepNzpRpQC2JM4pQ,Sage & Onion Cafe,CA,Goleta,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-lzx4AFxrByuVxgyZwRMYYg,Starbucks,NV,Reno,78.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-JXhIz744GI7U_ereD9Nf8g,Jack's Cafe,NV,Sparks,49.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-_l05Dd6BKBAiJKX71bLq6g,Open Cup Coffee & Tea,CA,Santa Barbara,97.5,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-KWIgNJwWWS34AvGaC0HdYQ,Starbucks,NV,Reno,90.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-u3uB0GD7cVf5NC-AFHdwnQ,Golden Line Coffee Bar,CA,Santa Barbara,19.5,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-5vIfUavd23X3lBzjnnc4QA,Winchell's Donuts,CA,Santa Barbara,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-_oEolwACvc0oFQdd8yM6gA,McDonald's,NV,Reno,128.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-lA5BOb5Om5cn_dfwiOgbNg,McDonald's,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-Hj44PIrCtv61ETVclzLMwg,Jeannine's American Bakery Restaurant,CA,Santa Barbara,24.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-NCHUoBAMTDqI754PICPN9A,Starbucks,CA,Isla Vista,84.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-qGktl0XjPNgc1nRJavkLGA,Starbucks,NV,Reno,55.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-JU4Ea-xwPCGOUG93TUrVmA,1 2 Tea,NV,VC Highlands,60.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-msIS0f3xGr0SQFqkQ1wM3A,The Blue Bean,NV,Reno,45.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-SWP5Cck3Hd_g-KWfVkF_IQ,KOL'S,CA,Isla Vista,30.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-7o-p4IlitJ-SbSCZ84vHqQ,Campus Point Coffee,CA,Goleta,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
-L9QTAucz_in5f-ufCrvb1Q,Live Culture,CA,Santa Barbara,85.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-Aj44kUBmEfJlUsGCvKJKtw,Starbucks,CA,Santa Barbara,84.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-6SYG6M05gIwaj3doas6X9Q,Tealeaf Cafe,NV,Reno,54.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
-bTVY4S3fC-ZI4-Vy-fvCsQ,7-Eleven,CA,Goleta,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-jgOgj1gvfPy3DEIpSjQiOQ,McDonald's,NV,Reno,132.5,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-p73i2GDzPRZJbYBa8qtpSQ,IV Drip,CA,Isla Vista,122.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-3fpAmsSuEFNF29UUPpgwlw,Spudnuts & Bagels,CA,Santa Barbara,80.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-dDU-0EW4Asx-RnM-vULFQw,Lighthouse Coffee,CA,Santa Barbara,70.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-0Qs-G8Xs-mz-jmQH5lez5A,Museum Cafe,CA,Santa Barbara,20.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-q7kwvOr9Cr3isDn6r-FaHA,Fresco Cafe,NV,Reno,35.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
-JIf1gHuAp_abYX7i1b2Y-w,Mellow Fellow,NV,Reno,74.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-to6wzDW0qBkrY6zttmngZg,HeliCafe,CA,Goleta,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-etqiTJ31Bl3Fuh3CWTSHxw,The Coffee Bean & Tea Leaf,CA,Santa Barbara,103.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-57i-zASRB3jO1S6_oPvcZw,Isabel's Bakery,NV,Sparks,40.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-mQtDQblKR8-RY295XLyGMA,Starbucks,NV,Sparks,105.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-uQSCNdPI0dC_sPsOh1U8NQ,McDonald's,CA,Santa Barbara,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0
-WVYcB73fVpBMznlhhqjL4w,Glory Cloud Coffee Roasters,NV,Sparks,27.25,1.0,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-0iLgVQpBeIYYwQZIblTTVw,Cafe 154,CA,Santa Barbara,56.5,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
-UiJiURqivPDuvMsFgRF3yQ,The Honey B,CA,Santa Barbara,44.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0
-0pVM5OaWWu-M0TWMQ9Zwyg,Mendoza’s Coffee,NV,Sun Valley,78.5,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-4UEL40Ux-iZfk589CK-iQg,se7en,NV,Reno,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-YP6IjFUxh9_VcFUWq5ru-g,Mellow Mornings,NV,Reno,35.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Qh4SE3580B-nnH3DwuAXOA,Cafe Zoma,CA,Goleta,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-TF3qNGUBUgIYp6u0j79JHQ,BJ's Nevada Barbecue,NV,Sparks,64.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-lCpO0y4VR19qMGWprbiGDQ,Starbucks,NV,Reno,125.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-1oGCzoCC6HnQWpdK9cCP0g,Low Pigeon Coffee Roasters,CA,Santa Barbara,52.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-9oJinxECxlSutUM0kBOixw,McDonald's,NV,Reno,128.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-gwGLBmNTfIlaTnwFtddbkQ,My Favorite Muffin,NV,Sparks,43.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-FBqYnP7H3TMHYQvafuBTSA,Hiwi Tropical Fusion,CA,Goleta,91.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-Bye73IBqt2u37RKTgwv8sg,Bibo Coffee Company,NV,Reno,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CfxaspC1y3xfmL_AnA-7MQ,Branding Iron Cafe,NV,Reno,168.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-me-gE1a7-DRGK9oeuCmbrw,Starbucks,NV,Reno,112.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-45D7B9CqiUTTPUFcqmLx5Q,Live Oak Cafe,CA,Santa Barbara,36.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
-HGRR2w9KddspVBYA-4bSlQ,Sunnyside Market & Deli,CA,Santa Barbara,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-O6fpSQsG6waSug3tccobew,Starbucks,NV,Reno,100.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-0iHHsSqphxrBWWecYEJcuQ,Cajé Coffee - Arlington St,CA,Santa Barbara,48.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-wUHUyTrOpUcTVTQpyZFo8w,McDonald's,CA,Santa Barbara,114.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
-elEQxid6rZ3tRZF1Kwkr9A,Café Milano,NV,Reno,168.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
-qvnfFOgJOvon_Ak8loYMxw,I Bean Grounded,NV,Reno,75.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-uEv1I-0r82Krj4eEysjC4A,Red Kettle Coffee,CA,Summerland,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-iuTj4Se42VUto09Stkiq4A,Teavana,CA,Santa Barbara,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-PaP2OwAFRITcjJ_Xb6dUAQ,Old World Coffee Lab,NV,Reno,30.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-r_UPGh9GHMyBhPVMKVxRuw,Cajé Coffee Roasters,CA,Santa Barbara,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-14UWSgKjw5YLBqKYjBPjtw,Manila Bakery & Cafè,NV,Sparks,0.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
-R722fDi0r2oamiWjbnRP2Q,McDonald's,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-rsEy48n_jB0I-Mofec1NJA,Highway Karaoke and Fresh Tea,CA,Goleta,88.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
-kCAvqT_3AWOHx80VALz2lw,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-4sOLSCiwSdHhzcXC9Sd0xQ,Northstar Coffee,CA,Santa Barbara,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-jS8VAzNJjjekJwBknEFZFw,The Roost,NV,Reno,62.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-puDcIJMwP0H_vy9Ty8HFFQ,Starbucks,NV,Sparks,89.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-yOvGqROeTabICY7c80h98Q,7-Eleven,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-3DSgJFIaXjdknbZn3LSnPQ,Dart Coffee Co,CA,Santa Barbara,65.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-9gQ3s8WlhHTJen4bCkZYGQ,2nd Street Café Express,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0
-jl0QetAu4Tgf4mq33ZN9VQ,Le Crepe Cafe,NV,Reno,48.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-Hl_vXTiYLozWo7T9Cq17vw,Aperitivo,CA,Santa Barbara,18.0,1.0,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
-w8Imup3Dy0-v377-ixFuWQ,Vivoli Café & Trattoria,NV,Reno,24.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-gYrHa4CckDjgOQc5B-yTKA,Reds Bin 211,CA,Santa Barbara,64.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-yIAgFdYQY3UdfDn-qO0K7g,Arts & Letters Cafe,CA,Santa Barbara,24.5,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-uQcKo8m34OULhySxwRaOAg,Nicoletti's Cafe,CA,Isla Vista,54.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-70vQqNfFTdA3FmqjFDnVfw,McDonald's,NV,Reno,119.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-iJp9sq8UddLSrUtIieoD0A,Good Cup,CA,Santa Barbara,92.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-Ukn2qaxEP0sbjoiwn2LwhA,Onus Donuts,CA,Santa Barbara,45.0,1.0,,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
-QFh-h_OZ5Io-mBk32HN28A,Kyle's Kitchen,CA,Santa Barbara,69.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-ZTg2GBgQj1WwAO5ySsTAQw,Beach Bowl,CA,Carpinteria,30.5,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-2HKLaz8nktScK4-1hIFykg,Artisans,NV,Reno,47.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
-Z0mBsgDzDnFAEC5o4X6G9g,Java Station,CA,Santa Barbara,77.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-70kwtAF7XEtP2WZkOn34fA,Bazaar European Deli & Cafe,NV,Reno,65.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-ip4LFXDktVPxnyq2Ld5i0A,Green Star Coffee,CA,Goleta,32.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
--M7wzxpUsdSkQd9PDGsJWA,Tyler's Donuts,CA,Carpinteria,105.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-mqKz51qAxfcBaUhNCGcysg,Great Full Gardens - South,NV,Reno,61.5,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
-Nr-ew8B5DBXIhdt1oE9_-A,Jack's Café,NV,Reno,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-tfhmTE3ORFmHuo7phIY-KA,Spread Peace Cafe,NV,Reno,82.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-PnLZ1uKbRZkv6t72gSvCwQ,Starbucks,NV,Reno,84.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
-pWDE_rueENu_f5HKA_AsWw,Dune Coffee Roasters - Storke,CA,Goleta,65.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-Lmstm1D0Ch8QP1b2TB-tVw,Perenn Bakery,NV,Reno,54.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-UGADjVkBITKPU7I6sMO1oQ,Bella Dolce Bakery,CA,Santa Barbara,43.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-FH0MVF7kK0D76Hh4e7hXfQ,Jeannine's American Bakery Restaurant,CA,Santa Barbara,30.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0
-PDdUfkGAsNLUkgHaJg3tVw,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-a9K3jxNUUe6jr1uh8FsakQ,The Patio Cafe Santa Barbara,CA,Santa Barbara,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0
-RTEaH3i8X3yCLNjOdPw3Pg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-_JK1veKwxAwk1rp4H7z-1g,Starbucks,NV,Reno,72.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-ZtDiNvGta1prJKyAXhawNg,Desert Sun Bagel,NV,Reno,45.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-1l4-uhraQzNiRjppKyMUUQ,Jeannine's American Bakery Restaurant,CA,Goleta,31.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-wmEZ3OqLuD1Z6b3mJSl1yg,Xo Coffee & Tea Bar,CA,Goleta,59.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-ma9v_hyIJtb63dtXfVnamQ,Takoda Gourmet,NV,Reno,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-ol6ATB97MdIuhm6yAGOeMQ,Lucky Llama Coffee,CA,Carpinteria,52.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-T0L0KltiJMAtrYHjqyuoMw,Starbucks,NV,Reno,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-L4-_gPiqsuX50JN_-qUhNQ,Jeannine’s American Bakery & Restaurant,CA,Santa Barbara,36.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-JnFpgav_bgPN6aSJDYpzyg,7-Eleven,CA,Isla Vista,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-55Q1klIhnn7tcJ6inLtwiw,The Jungle,NV,Reno,114.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-lpUn1M5exBmKegS1_f3WHA,Wood-Fire Roasted Coffee Company,NV,Reno,20.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-fFj8iQ8eVZui5kcPzPVIJw,Dunkin',NV,Sparks,108.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-wacMqAA_9USygYvgJAkfgw,Cafe Bellini,NV,Sparks,168.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0
-j6TDQvbRoMszGR0hyaVxvw,McDonald's,CA,Goleta,129.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-mHmIoIGOfpidrS1fYQ9PbQ,State Street Coffee,CA,Santa Barbara,59.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-qUH2FppY7RL96F5tXzA0hQ,Dune Coffee Roasters - State Street,CA,Santa Barbara,63.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-5N33VO4gB41-8Cqm0FzbGA,Sips Coffee and Tea,NV,Reno,112.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-dHB4vS2CFu2GlQ9ERG5H3Q,Crepe N' Roll,NV,Reno,66.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
-ZRy4atrG3YHdb__qtE0FsA,Mulligan's Cafe & Bar,CA,Santa Barbara,98.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-XXsofYxziipczzc3OFDD5Q,Caffè,CA,Santa Barbara,63.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-YJUJqez_Sg0hFDEXHYls0Q,Bibo Coffee & Gelato - West Street Market,NV,Reno,24.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-3RPeXlx93lC_W3AH89-SjQ,The Eldorado Coffee Company,NV,Reno,42.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-9Ekfby4OgzWs96RO8M4tnQ,Caje,CA,Carpinteria,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-k-q7lm2ovMSTZa4j16OzGg,Gloria’s Cafe,NV,Reno,37.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-n_RyzuCAiR4yW2JLkl0Jng,Cafe Shell,CA,Santa Barbara,9.5,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-6tXfFVJJwfWOY9n7LK8dVw,Siu Asian Express,NV,Sparks,55.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-oS02owt-XB2RtDbogYyn-A,The Coffee Bean & Tea Leaf,CA,Santa Barbara,84.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-hrEtM0WMgwhv19mzVnKiJQ,Magic Pita Cafe,CA,Santa Barbara,34.5,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
-sSY87quBd3LjV5Rk-KcPPw,Petra's Pretzels,NV,Sparks,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-2rv-W-PBYciHvOhruq8rlg,Java Jones,CA,Goleta,119.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-eFeBGZ8xbYR-LiESfovs_g,Chuck Wagon,NV,Reno,50.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-8u70WVawnsReBWNv7IXNSg,Ding Tea Reno,NV,Reno,61.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
-UpWlqQ_jrTF4JAtdGZL33w,Madame Butterwork's Curious Cafe,NV,Reno,28.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-OJ9DJLWvQV0h-ZU07QEKag,Gelato n More,CA,Santa Barbara,69.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-YcY48yvPw6-FE-5DJCY14g,The Glass Die,NV,Reno,45.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
-NmJX_LZ7ShIZqspI31RVZA,Starbucks,CA,Santa Barbara,93.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-yEmEDomLUofVtbZoUeFV5g,The Daily Grind Coffee & Tea Station,CA,Santa Barbara,66.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-7BNS9K9LKnlK3lI9JQsBHQ,The Lucky Childe,NV,Reno,60.0,1.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-kl2aUBT46mTCujJEWYgS8w,Box Eatery,NV,Reno,42.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,4.0,0.0,1.0
-vyWlrMyMypGPnipA7ovgSg,Borders Books Music & Cafe,NV,Reno,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-jmMCUCuErJP7EtR_6RVRig,Purple Bean,NV,Reno,74.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-JD4yd4N8HCDziaJKJXk2yA,Tori's Oatmeal Lounge,CA,Goleta,168.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
-ue-Me7wcOixhdHNOEQ6j3Q,Starbucks,NV,Reno,105.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-LG9WtCRXx_PAr0y4nO0qjg,JoStella Coffee,NV,Reno,50.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
-cQDwJjslebJv5Co7gCm2Yw,Cafe Ana,CA,Santa Barbara,0.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-TMfqKovAdxptiQTqv5gslg,The Cafe at Rail City,NV,Sparks,35.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,0.0,1.0
-zuhraj8YI2SZazlUS4GFew,Americana Café,NV,Reno,62.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
-efVCzhiCt7bnlWzQyQlYYw,McDonald's,NV,Sparks,98.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
-TiapTI04Gtgj8AhIN-9fqQ,Opa Subs & Espresso,NV,Reno,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-BrtXtNgpCXjcyCKqLW3jPg,7-Eleven,NV,Sparks,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-uJc9lKaxLNBZch866x4_pA,Marketplace Cafe,CA,Santa Barbara,41.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
-s27GlS3WCN7b4dxTpainrg,Twin Cups,CA,Santa Barbara,69.5,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-F-Z2J3GDTNge3K6bsbnKSw,McDonald's,NV,Spanish Springs,137.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0
-AzQIIA5d5YFrU03pyhV1fg,McDonald's,NV,Sparks,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
-Ix0DIZoP26W63pu85KBykw,Wow Wow Hawaiian Lemonade,NV,Reno,56.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-odPkQbmZAfsqe2GI760Q0g,Cafe Espresso,NV,Reno,168.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-aOLFlIQibMg_lT2X4qKM2g,Dean: A Coffee Shop,CA,Goleta,68.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-OS-4bz9u46-7sVBTMfhkhg,Cabana Cafe,NV,Reno,105.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-LMm555z8BReDxgkpF_TEug,Park Place Deli,CA,Santa Barbara,62.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-nAZEMdurfbWLxl9dryfgeA,Wake Cup,CA,Isla Vista,70.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-IRJvFUVDEfS7YQJaiaV8zg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-rH80UXr5YBv4um7phwwwMw,Crushcakes & Cafe,CA,Isla Vista,72.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-m2iS4YYmcq6pFpaGCtO-Iw,Cafe Int'l,CA,Isla Vista,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-S8TWiMbbBaCNUHbQXOCBNg,2-D Wok,NV,Reno,35.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0
-dMOwtXTM1j_RP18Wl1RC-Q,bibo coffee company / bibo freddo gelato,NV,Reno,84.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-3kNwvKixMwe44dWvQd5PAQ,Vonz Diner & Collectibles,NV,Sparks,59.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
-mVZhzTJ5xoneXa9XMWRyCg,McDonald's,NV,Reno,112.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-GmoYBvRsVa18G5FPiXk8JA,Peet's Coffee & Tea,NV,Reno,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-WVNkMz4sEl35swjVtKHOFw,Alessia Patisserie & Cafe ,CA,Santa Barbara,46.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-tpW26ob4-YTGLQr6xC7mbA,Java Ship Coffee,NV,Reno,68.5,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
-thlyktt2c7v1DyOpSVSibw,Scarlett Begonia,CA,Santa Barbara,30.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-_Mbw_orl5EdXJP1XzklQvA,Mimi's Cafe,NV,Reno,76.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-_mGAcxIOqKcL3muEg3LHLA,McDonald's,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
-TebJaTyTkScemRVHZUAPoA,Paisan's Old World Deli & Catering,NV,Reno,32.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-c7GJVA-6lQxcH6QkrRiW0w,Hot Spots Espresso Company,CA,Santa Barbara,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-_6p_j0UL7ST3b2nvHw82eA,REBAR COFFEE + KTCHN,CA,Santa Barbara,82.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-gFdBHaAKtCycQuVX3fd9Hg,The Java Bean,NV,Sparks,32.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-kwqXOtLCbNjgvwuMj4H1AQ,Montecito Gourmet by Village Cheese & Wine,CA,Santa Barbara,40.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-y8RbDyDJd-zGcgThqIZWDg,Zizzo's Brew Pub,CA,Goleta,98.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
-3xHyD9FBsQjHXgwI31czXw,7-Eleven,CA,Goleta,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-GUuLWkqfieTDwORs8z8mDg,Courtyard Cafe,CA,Goleta,48.75,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
-r926yelr_EJAKQCjdD6AWA,State & Fig,CA,Santa Barbara,18.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-3n7VGTZQKyWycuhU_j0lqA,Alchemy Wellness Spa,CA,Santa Barbara,64.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0
-47JfuGySAVhQmIYynH_yfw,Starbucks,NV,Reno,105.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-DuBmz6aUgECGvIZm1ZOsag,Peet's Coffee & Tea,NV,Reno,98.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-v8GLvA8kl1_1L8I2Ie1RCw,Grace Bake Shoppe,NV,Reno,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
-FT-cRqGz3kJBDgXr-9Fdtw,Sips Coffee and Tea,NV,Reno,0.0,0.0,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-8q25GCkL0PngPIlCu2j4Vw,Pangolin Café,NV,Reno,47.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
-IIg_XileiB4DRqlTAuVdMQ,Bonanza Casino,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-mMuvlDGcJrokNFd4ob9tcw,Feast: The Cafe at Field + Fort,CA,Summerland,56.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-Uif8NGtHlCJmMdrV3pVqCQ,Starbucks,NV,Reno,108.5,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-elX9a3nvGMSweRaMWgSb0Q,Starbucks,CA,Santa Barbara,89.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-fZzvYELAKZ0A8wePhHvdiQ,Millies24,NV,Reno,28.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0
-rlVL-Q-fActNnxip07Z1kw,Hi Point Coffee & Cafe,NV,Reno,48.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-Ee-V8jWifZDvRyFrSW5LIw,The Daily Bagel,NV,Reno,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-6E9KjyDAdL_vDQCWwhj_KA,Crushcakes & Cafe,CA,Carpinteria,63.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-xUd0QOyVzx9SQhWulcOPAw,Book Ends Cafe,CA,Santa Barbara,39.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-NORF647ibBQ4U-VNMgzSLg,Oakberry Açaí Bowls and Smoothies,CA,Santa Barbara,81.0,1.0,,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
-jtgBkAQuchDYgkdsebzLsQ,Old Town Coffee,CA,Goleta,90.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-myKiQiaRJsPfYnlSW7_qEQ,Dreamer's Coffee House,NV,Reno,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-mqI7dRVusi8Ktwvx5-p0hQ,Silver Spoon Eatery,NV,Virginia City,46.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
-B2KGQwnxjpdY4TIVqmG3XA,Wet Hen Cafe,NV,Reno,28.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-C6AiAF35zwpAoK5jjm-nhA,Montecito Coffee Shop,CA,Santa Barbara,51.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-v-oSCziSbc_S8Ko5nUOI9A,Gourmet Grind,NV,Reno,105.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-rZ6i69fbbLdgiIgmU5sFUg,Pho Cafe Hong Kong Diner,NV,Reno,122.5,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-bSgnLV5MkJycHpv6l5cnNA,My Favorite Muffin & Bagel Cafe,NV,Reno,57.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-yBrK-DwpdbJY2F795ZStcw,Starbucks,NV,Sparks,107.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-x4L77IWKk9Yd_d-WNxVb_w,Global Coffee,NV,Reno,44.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-C9_UPkwXYx9B3fxNLkCHgA,The Coffee Bean & Tea Leaf,CA,Santa Barbara,91.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-M1r6v01bF7GQFH30FTbyAg,Starbucks,NV,Reno,97.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-NCMTfUJYTasYZ64UuGC-rg,Pizza Online Company,CA,Goleta,61.5,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-ZzI68qUPwySLG3pFeQxg6A,Sade Turkish Coffee & Delights,CA,Carpinteria,36.0,1.0,,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
-Kul4eM5SoI36a0jWk5Zu0A,Bubbletea Station,NV,Reno,73.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-FYs3jIvpxRCeTHMn2nOWDQ,Starbucks,NV,Reno,78.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-QjQ-gtUnkne7jch0OLsPIg,Rosie's Café,NV,Sparks,130.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0
-XTcqhIF7Rfm43aHzJPXT_Q,McDonald's,NV,Sparks,129.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
-4fKGv-3XMlxv_vuiFbuwLA,The Drive In,NV,Reno,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
-JRBfLvTRf8umVgq7ZSOm9Q,Cosmic Coffee,NV,Reno,37.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nB6wv6EY7ExXdehFs6sB4A,Pure Water Systems,NV,Reno,46.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-O0kQGkmlllaN7oU6sQyzPA,Flir Cafe,CA,Goleta,35.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-wObna18K6-5V-rutqz-jTw,Pathways Cafe,NV,Reno,30.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
-i9ASBmmIJS3RjN_UP-TtKw,Starbucks,CA,Santa Barbara,99.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-KD9-X5AykKmiZszrMepjhQ,Homage,NV,Reno,39.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-f8p3fbPnCXeYFpygOgbiqg,McDonald's,NV,Reno,126.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-OZnQZ4sZRwd7L1jMc7pv2w,Sol,NV,Reno,33.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-5GUA13zYgw4_8F6qUMU_LA,Green Star Coffee,CA,Santa Barbara,86.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-2w2L1VAFAY89zcKtPC20jA,Magpie Coffee Roasters,NV,Reno,49.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-GOiJ4IggzshvIdW7Az8VNg,Reno tea bar,NV,Sparks,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-fVx8Wk9AnV7PAQlheG_y5w,The Little Donut,NV,Sparks,102.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-ZeSfX_NTmOm48hK3kQRxfg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-zZrDoiQIUmiVkifJx0h_KA,Old Town Coffee Downtown,CA,Santa Barbara,77.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
-uttovmgZMrYTv-lW859tjg,La Brea Bakery,NV,Reno,105.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-vf81tOiPd08VGI28EkB6OA,McDonald's,NV,Reno,124.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
-qPPE4N1zb-lQfAV-Zu15CQ,Bibo Coffee & Gelato - Midtown,NV,Reno,70.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
--9r8nAzWyRSLxBWt8uQOdA,Hana Kitchen,CA,Isla Vista,102.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
-6Zs_1sQFBUSA_K0c7x_Mpg,Num Num Boba,NV,Reno,55.5,1.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-kb2Zvig0OTEqlA1xS2lakA,Truckee Bagel Co,NV,Reno,60.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-EZpbFQJEgo00XNlKJe-4ew,The Spice & Tea Shoppe,NV,Reno,37.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0
-J7TNypXgpjMFS7Rp3HXYuA,Einstein Bros Bagels,NV,Reno,45.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
-opXKYWR9jYc7ZdQsjfQSDA,Hub Coffee Roasters,NV,Reno,33.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-6RBrYMiAf8jFJI4fDoQpcw,De La Guerra Dining Commons,CA,Santa Barbara,23.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
-M0NT6MBWg5-76wyQXMzJWg,Bluefin Poke,NV,Reno,42.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-kyrqWqmgn65uVa2oTowAGA,Bibo Coffee & Gelato - Southcreek,NV,Reno,61.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-jnZR1Urkc3BtZxEdSctBVw,Red Rock Spring Water,NV,Sparks,43.5,1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-woJ6EMlZtBtpl8kG7aoffw,Ginna's Cafe,NV,Sparks,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-SYHDOHRNAH-2xsw3XB5qbg,The Shop Kitchen,CA,Santa Barbara,36.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-b36EeutJRvowZMr9TpQm0w,Lighthouse Coffee,NV,Sparks,79.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-apdwYbDYSOgD89eEa8yDcw,McDonald's,CA,Santa Barbara,135.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-yL1yC5OOawjSamAb9Wjm5A,Lemon & Coriander,CA,Goleta,40.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
-wX4ap0Qy5ZK6Hy2iKvBqXA,"The Pasta Shoppe, LLC",CA,Santa Barbara,76.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-Swk_Fdv-gRY8zUT2ft18Kg,Starbucks,CA,Santa Barbara,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
-wEtG1X39TB6c78OlkKrVyw,Red Hut Cafe,NV,Reno,63.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-awmy82IdpCC8xK56tO4IEw,Starbucks,NV,Reno,63.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-IrKk13yo5Wx8rAjlN-PZMQ,Too Soul Tea Co.,NV,Reno,84.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-EAApVzr9Uib9rvDs67RsNA,Starbucks,NV,Sparks,95.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-U_NagvNEa4k150qLgul_zw,Franz's Backstube Austrian Bakery and Fine Pastries,NV,Reno,55.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-Kg71HUigI1rnY3UMFiLx0w,Tangonadas,CA,Santa Barbara,56.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-hGUr1HxLfqvhQC1AG8kkVg,Coffeebar Roastery,NV,Reno,38.0,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
--J_HhUwt5pPiHRNf_m7rHw,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-WPlzKv5eZLC1-1qq64bZQw,Fairly Grounded Coffee and Tea,NV,Reno,66.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
--0iIxySkp97WNlwK66OGWg,Truckee Bagel Company - Midtown,NV,Reno,49.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-aiTr5RX3RkAwQeCswBaL5g,Taster's Paradise Mobile Cafe' & Bakery,NV,Reno,37.5,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-x8xBo3sEACCBBFWXMptnog,Perk Up Coffee Shop,NV,Reno,33.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0
-EM1P1u4ihl1Ritzm-P14iQ,Starbucks,NV,Sparks,104.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-oyJdcjCTGEM2KiGqyJaFwA,Workzones,CA,Santa Barbara,36.0,1.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-G7fe-mubzI2hrVlYA7WftA,Pianissimo Coffee and More,NV,Reno,39.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
-yi1qt3cUK-RojZPXEjVFXQ,Starbucks,NV,Reno,83.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-13N2olEEZ3E6rshOriEGSQ,Jolt -N-Java,NV,Sparks,77.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-uvb3NcpqBEaCrrcyfNF-wA,Starbucks,CA,Carpinteria,96.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-o2547RNviHXFBXIzGTatlg,Joe's Good Java,NV,Reno,45.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-ErW31qKCSDBc_oZ4DCziww,Bibo Coffee & Gelato - Downtown,NV,Reno,33.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-winkCYdiTroKdbPbV0DfRA,Biscotti's,NV,Reno,104.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
-CwL56LgcMz7Bvi4xODHVSw,La Arcada Bistro,CA,Santa Barbara,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
-THSP3XyEjOgqpXcqwJoCyQ,168 Chinese & Sushi,NV,Reno,60.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-sc-ODc3ldfGGBOPy_k1uig,Brickhouse Bakery,NV,Reno,102.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-TqE83vo_rs4h4EycnuLI6g,Peet's Coffee,CA,Santa Barbara,86.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-8aEHSfVjOUC7XSJw3xwrqg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-bp482wqF6v80AltDNlPDfw,The Blue Owl,CA,Santa Barbara,67.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-3sQehkDWhJVtYQ90MUMRNw,Zagol Ethiopian Restaurant,NV,Reno,24.0,1.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-hPzPpfSjgQkpWCD7YjcY-A,Lilac Pâtisserie,CA,Santa Barbara,38.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0
-VvoRA1KLjWs7pUq_mXvHpw,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-acqDz7WDsCS3WiLxHVceOg,Café Lido,CA,Santa Barbara,93.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-II1ZGMmA0BLGV-EmhPkrEA,Gourmet Joe's Hideaway Cafe,NV,Reno,40.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-PrsGeNU4XGdl2BEKTiQrQg,Urban Beets,NV,Reno,74.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0
-4VXVP21v4Xec6C2mnnBnGw,Archie's Giant Hamburgers & Breakfast,NV,Reno,111.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-TlvnDLrM4p2udHfeUwL82A,SouthCreek Pizza,NV,Reno,38.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-QpsBZDw-fE5r5_M6Vto_qA,Cafe Equilibrium,CA,Goleta,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
-uoU7b-XfnWJfJ0jVa7_Uog,Cafe Capello,NV,Reno,66.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-DRa9zJ55Gnc7UHQV4sDh8g,See See Motor Coffee,NV,Reno,46.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-icGg8xgDJVufg-xptMrDGw,Denny's,CA,Santa Barbara,168.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-PUDTWmMzevJdvsueEmnYqw,Hochaya,CA,Goleta,59.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
-USvBH2Pqr3ZUDKwo12_FKw,Espresso To Go,NV,Reno,50.5,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-ywBRJjqtj2xIfsWzs8ungg,Taste of Chicago,NV,Reno,47.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-sgCUMv2spV-tpCHWBO1Etg,Lighthouse Coffee,NV,Sparks,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-XRmk-rUh2VknJs4tT7QB2A,Starbucks,NV,Reno,108.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
-95NWdx75Gwy4r_IGGuCnmQ,Juice N Things,CA,Carpinteria,62.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-Qsd_S2f7fNFqngx2amRE7A,Sojourner Cafe,CA,Santa Barbara,66.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-RdFgbrE_8sf6NImEMopaPQ,Beachbreak Cafe,CA,Santa Barbara,52.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-84fKFTKnYwc8PijJdMkkLQ,7-Eleven,CA,Carpinteria,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-DBIs8znvD-RUy9rFsKiJUQ,Cafe Whitney,NV,Reno,30.0,1.0,,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0
-R_8S3Iuhpzoi3nM-xq3kcw,The Daily Grind,CA,Santa Barbara,56.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-jrSC1bwN2lz9dVBrNTejSg,Jack's Bistro & Famous Bagels,CA,Carpinteria,54.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-SF35XOX6vmx_NMzoQ7RLkw,Starbucks,NV,Sparks,107.5,1.0,,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-b5hxsRw76UUXcotxlCipuQ,Los Arroyos Mexican Restaurant & Take Out,CA,Montecito,72.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0
-vYRqUvqE7T7rnHjLjTB2tQ,Little Dragon Restaurant,NV,Sparks,18.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
-U41FZCI4nQIcH8nLR8i1eA,Cosmic Coffee,NV,Sparks,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-s4k1P9FHfPUzw3dqXRp7eA,LOKUM Turkish Delight & Baklava,CA,Santa Barbara,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-eQo42s9IYFnLbRkFFU86ww,Classic Rock Coffee - Reno,NV,Reno,53.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
-_TEWOkqBWDtNigjujuPQfw,7-Eleven,CA,Santa Barbara,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-C-zgOpqD2K0xDJU4ty7zKg,Honor Market,CA,Santa Barbara,74.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
-0RxU5OglQyPVtLKC1LPgsA,Bree'osh,CA,Santa Barbara,40.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-DOfiulOub9hVPBCtiDl9Fw,Lucky Penny,CA,Santa Barbara,62.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-AorcIbAAOJI7z0CBwICwoQ,7-Eleven,CA,Santa Barbara,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-Ij5cfoShFFmDWVPaSGitLQ,Peet's Coffee & Tea,NV,Sparks,0.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-soaZ7_oU7xcphlw6gpWblg,Starbucks,CA,Santa Barbara,112.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-VAIOtbsxdNmuhUKkQZFRlA,Renaud's Patisserie & Bistro,CA,Santa Barbara,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-z5N7vgaNSBpjKT_gbY53sw,Spudnuts Donuts,CA,Goleta,77.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-_BreSZ3-mTEJYqJ1Ot7Akg,Holey Schmidt Donuts,NV,Reno,25.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
-qTGVwZouVL6AbRILdtwSlw,Courthouse Cafe,NV,Reno,40.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-uVtTkB1EVevu-0EIQygVMg,Starbucks,NV,Sparks,101.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-HJ_rOClY2RPrdervYopKmQ,Mosto,CA,Santa Barbara,33.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-iMTjejk6apJKzCukZnDw5A,Jeannine's Bakery & Restaurant,CA,Montecito,36.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-r5sQtvsO4OVJgEH5H3uEAg,Starbucks,CA,Santa Barbara,84.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
-WTrmBvsI65Zk5SvRweNZkw,Starbucks,NV,Sparks,78.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-GMc8-oh5IAWYi4j-Ac-ppA,Java etc.,NV,Reno,130.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-Cxh7HIPRhIr_DIetWp3jAg,McDonald's,NV,Reno,119.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
-XUEP6erHkEWyGzR0j0rrvw,La Brea Bakery,NV,Reno,105.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-DIsakzk-hTU48OEhqYIf7w,The Basement,NV,Reno,78.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-8dsMAUIA8Xk-2B0qrDHSnw,McDonald's,NV,Sparks,112.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
-qsc66GLioJicWLYn7VG9LQ,Spa Café,CA,Goleta,42.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
-qgwOoCqT86uzrAoDAcWU1w,Composition Cafe,NV,Reno,79.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
-3Jk9lNDPhmUS8PC5CrY4sg,Krispy Kreme,NV,Sparks,122.5,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-vbNmk49PJji5pC3JhniMOw,Pneumatic Diner,NV,Reno,80.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-9D--6413BnOOSqlbCFIGkA,Lighthouse Coffee,NV,Reno,38.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-2WHu0k5VVM1Pn9AFzkSBlA,Here's the Scoop,CA,Montecito,61.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-aCAsjSh0aaaq8UsPHGtclQ,Sunset Cove,NV,Sparks,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
-XgehM3pBZWuXi45J2dqRJQ,Green Table,CA,Santa Barbara,34.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-A5ZgUhlg3XEbm46SDiZwhg,Carmelita's Crazy Cravings,NV,Reno,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-fqStx0SvwMFChX_HIdUeEQ,Wine Cask,CA,Santa Barbara,19.5,1.0,3.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
--eCe9GfRqhbMaB9CylkBSg,7-Eleven,NV,Reno,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
-bF30LqHuXYtR8ibaRbq2kw,Zizzo's Coffeehouse,CA,Goleta,93.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-Eo0psaCr_gcty9QqyUy46Q,Café Central,NV,Reno,33.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
-hjRxa6xpKOwnbUgGvVCE5Q,Sparks Coffee Shop,NV,Sparks,30.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-lIU2BU8iWOoXBXaxdy7V_w,Starbucks - Reno,NV,Reno,65.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-spm1KEE-5jAJVTE0ldpzFA,Sweet creams,CA,Santa Barbara,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-xYca_PTaOxhNm9ky7oExvg,The Human Bean,NV,Sparks,112.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-WfN-VixjWAbfe8efJEs3yQ,Renaud's Pattiserie,CA,Montecito,53.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
-3GcXSZQ65Np5N1N4a-DK_w,Restaurant OPEN,CA,Santa Barbara,14.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
-UMaNwuJBwO0I_7qJnhjECQ,Vertical Coffee Roasters,NV,Reno,22.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-YNP9czXLpMaEXZh4Bpi1Jw,Lakeside Bar & Grill,NV,Reno,72.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-YNkDhu7Ba36mUR6vN0491g,7-Eleven,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-ZcbhsniFmXZFW8ccPvsSLA,Coffee Collaborative,CA,Isla Vista,116.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-b8jbsZHfrGZCVPjI9KXV_g,McDonald's,CA,Carpinteria,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-nB0dV8yPv29F3-CFMPG8cw,Joe's Cafe,CA,Santa Barbara,105.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-tzSKydKgvXCDp2bzdynoLQ,Starbucks,NV,Sparks,94.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-UuRZpgZsHX7PyykHV3wbZg,Crushcakes & Cafe,CA,Santa Barbara,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-9RDKqyqXJcupSnA2vCIs_A,Cafe Luna,CA,Summerland,89.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-UT9vP1Ww8OlL4nzBOKBCOQ,Hobey's Casino & Restaurant,NV,Sun Valley,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-kbWKwvLXfJm5sLVfw-Foww,Jill's Place,CA,Santa Barbara,55.25,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-C8TTeu2ZgPTOLQ-wQsPXXw,5 Star Saloon,NV,Reno,74.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
-Q5whIn3ifZy4jpwDkiRn2Q,Silver State Coffee,NV,Reno,53.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-2YnQAJdeFrcgPa8MqIYcDg,Cody's Cafe,CA,Santa Barbara,56.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-_tTKZJ89dS404ZEVnHa-Cw,Starbucks,CA,Goleta,107.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-t7TqCOZ6p6Do_SMhTcVDMQ,Grand Café,NV,Reno,72.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0
-KIpghikMrBbxx75tx_ZJUw,Starbucks,CA,Santa Barbara,0.0,1.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-D_-w6oXNj_33E7-urbSLLQ,The Human Bean,NV,Reno,80.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-B_q2xoAgTyn6U4YNEc3kSw,China Pavilion,CA,Santa Barbara,35.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-Dr2tI5lPLiXQrE0iZRim9A,Kotuku Elixir Bar & Superfood Store,CA,Santa Barbara,68.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-dccCnHSZyPCst2mn7Jkw-A,Hub Coffee Roasters,NV,Reno,54.0,1.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-2Ec7JLAHcJo4Aj2yvqfkiA,Gold Ranch Coffee Bar,NV,Verdi,21.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-MU6oyNoZoYZJtEZvsrnwOQ,Lighthouse Coffee,NV,Sparks,68.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-pWuoHHu0LuVrD0HjadDygg,The Stone House Cafe,NV,Reno,60.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-2E5fh57OvOQMWwxxEOkN8A,SIU Korean BBQ,NV,Sparks,71.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
-q0DRuEAxE5i57xNSTrDP4Q,Naan Stop,CA,Isla Vista,84.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
-agXGQ4DH4SqxtJxBHKjWIg,Muddy Waters Cafe,CA,Santa Barbara,70.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-Wbj2EbQQlGgYpFjJZVTAkw,Le Crêpe Café,NV,Reno,79.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
-ws0mjFrkanX_sXoUVRh8Uw,Jitters Coffee,CA,Santa Barbara,106.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-TI3Rydw47yBMzY1oW2wJUg,Elsie's,CA,Santa Barbara,112.5,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-iQ_JNYzwvhSsToR4EHl4cA,Le Macaron French Pastries,CA,Santa Barbara,50.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-cpaMCrmG7WK10tJ4c_GXow,Sanba IM,CA,Goleta,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-p1BPKxK3LFyy9lkXGA-0zA,Rivers Edge Cafe,NV,Reno,40.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
-lKCEFd8Z7tZiBiLT2J741g,Little House On Center St.,NV,Reno,49.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-E0EQvhXujng20fskiuZWBg,Starbucks,NV,Sparks,81.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-YgbIbmfDlB-bZSsjuIfKwA,Jack's Bistro and Famous Bagels,CA,Santa Barbara,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-7Hl4TcFcgdW2-TR-mhk27A,Walden's Coffeehouse,NV,Reno,44.0,1.0,,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-DPfp-da67QVFP5wg6Bq3Mw,The Downunder Cafe,NV,Reno,7.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
-a3p47WxYVo0BZGJoP1O0qA,My Favorite Muffin,NV,Reno,56.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-Y0izXh4Dv1_YU68tn43Xiw,Handlebar Coffee Roasters,CA,Santa Barbara,36.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-594Hh8RZg__h6DV83cYMmQ,The Bagel Stand,NV,Reno,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-hU4gqTl636TJrxlI2WXZSg,Dreamer's Coffee House & Deli,NV,Reno,77.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-2N9WHETHcYJsfYpHQ-qN_A,Crushcakes Cafe & Simply Pies,CA,Goleta,56.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
-LrkrvFHlnD1BHj2b2w0JpA,Oxbow Cafe & Bistro,NV,Reno,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-BErYojCJSO959vzaz9JclQ,Savoy Cafe & Deli,CA,Santa Barbara,51.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-Ddg-J_j0YFErk7wpMtH_0A,Starbucks,NV,Reno,110.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-IbpTkANgK_6LgJ_DaS94YA,Iron Skillet Restaurant,NV,Sparks,168.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
-5YKOs_VGFHgUv7DSMLaQeA,Finestra Cafe,CA,Santa Barbara,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-3tvi-OJ_-iK1ecjzSaH-oA,Hook And Press Donuts,CA,Santa Barbara,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
-B5Vh5dkky4N0y7Vc3yNviQ,Dutch Bros Coffee,NV,Reno,126.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-Vve4nN1s8XZzYug_YaY_aA,The Isles Teashop,NV,Reno,29.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-0mUVD5sDXZjd66XwATN8XA,Phresh Teas,CA,Goleta,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-j2J573HOZM9afnW_t67sjw,Ferino Distillery,NV,Reno,44.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-2wd7o7XbEywXTUqx6RITzg,Lighthouse Coffee,NV,Reno,60.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-tiSIiacOzflrMMwJEXVFIA,Dunkin',CA,Santa Barbara,91.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
-Thksu3pRk_QKFmKYa23mow,Starbucks,NV,Reno,119.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-jRmAvtGQfJz9Ye-Jq5gbUw,Vida Coffee,NV,Reno,44.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-Y7CyVy4yXkpYUfQyKu9ZYw,Enchanted Cat Cafe,NV,Reno,59.5,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ODvaMIpjD6bHiwQ9-kmECw,Vices & Spices From Around the World,CA,Santa Barbara,75.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
-9_uigKs9GCwg9dFKkq_Kfg,Starbucks,CA,Santa Barbara,98.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-C5p3AtEAR_Iim6JjNARmBw,The Laughing C A T,NV,Reno,42.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
-CMovGmSWFCjhOBOYiymetg,Westside Cafe & Coffee Company,NV,Reno,64.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
-MghG5uCGyoo827hSH8VK5w,Yu De Thai Restaurant,NV,Sparks,17.5,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
-SBs30RyeoiEU2LjeiH1YFQ,Crushcakes & Co,CA,Montecito,66.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
-a5TaDLChZDSgZ-en1sxNpw,McDonald's,NV,Reno,168.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,4.0,0.0,1.0
-eO47HI7ZqidXMkHyaOsf-g,Starbucks,NV,Reno,78.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
-wAPXYljzn9YDTvQqqL54pw,7-Eleven,CA,Santa Barbara,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
-VUilII_2y40BYq0FatRf3A,7-Eleven,CA,Goleta,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
-2puBfTq70dyDFkRlkwm1mg,Code Coffee,NV,Reno,76.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
-KsJP_BEXKQV9nvOmTbgbVQ,Joe's Good Java,NV,Reno,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-urEO2v7ydkJ-j9tUUmXpZQ,Starbucks,CA,Goleta,105.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-RYfl2IphOq0xFN0N8pzXQQ,Crème Cafe,NV,Reno,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
-0f0l62WKla-j2cfnPn7P2Q,The Coffee Bean & Tea Leaf,CA,Goleta,95.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
-WLkrmAiAtVRMgSQkVIFV6g,Starbucks,NV,Reno,102.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-BBBT3Mogjo3hPPA0de--Dw,Le Café,CA,Isla Vista,33.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
-hDr_bt6MEwlGvGCCKzyzhg,Goleta Coffee Co and Loca Vivant Kitchen,CA,Santa Barbara,46.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
-SJ_hPrUQa0l3PS2vQi-0yw,The Shoe Bar & Grill,NV,Reno,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-AFk4mirRQ7RWYCDGEPDZew,Mugshots Espresso,NV,Reno,51.0,1.0,,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
-Yvb0rmlmEFNLIRLfCIjVig,Basik Açai Cafe,NV,Reno,44.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0
-izSgTrqebu8bN8ONOCs6cQ,Oat Bakery,CA,Santa Barbara,31.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
-mLWZQtqebGFaHGN6Ix6Tew,Crave Cafe,NV,Reno,66.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-8IV78gQwTH-eZgbfFS_plg,Lost & Found Cafe,CA,Carpinteria,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+business_id,name,state,city,stars,review_count,weekly_hours,accepts_credit_cards,price_range,wifi,takeout,outdoor_seating,bike_parking,caters,delivery,noise_level,valet_parking,other_parking
+IDtLPgUrqorrpqSLdfMhZQ,Helena Avenue Bakery,CA,Santa Barbara,4.0,389,36.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+VeFfrEZ4iWaecrQg6Eq4cg,Cal Taco,CA,Goleta,4.0,189,75.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+bdfZdB2MTXlT6-RBjSIpQg,Pho Bistro,CA,Isla Vista,3.0,184,77.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+-kY_HDP7IMvGl-kBIZVU4A,Dune Coffee Roasters - Anacapa,CA,Santa Barbara,4.0,320,76.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+3vTG6LQyr3obzfvrK1l1hA,7-Eleven,NV,Sparks,2.0,12,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+pxuMxh5oC7W-PDN9wwvozg,Starbucks,NV,Reno,3.0,44,96.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+UFpCraqzFBAhtZqmxmiWsA,Cat Therapy,CA,Santa Barbara,4.5,116,54.25,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+jlkDIOPoRP9SJXTkRVpkMQ,BFF Cafe,NV,Reno,4.0,92,74.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+w8C_pRQvdIXQ5VRWlW2M3w,The Human Bean,NV,Reno,4.5,37,80.0,1.0,,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+F3dxQiOwN55rSLw-BNSq6A,Sweet Alley,CA,Goleta,4.0,51,77.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+CPFKi2lZJazP6IdtCdDDyg,Coffeebar,NV,Reno,4.5,676,75.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+Wndkw2PinAwTgjeUJOTdCg,Old World Coffee Lab - Midtown,NV,Reno,4.5,286,77.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+ju4YP8SLdR_BmWr_-Xh83Q,Phamous Cafe,CA,Goleta,4.0,220,50.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+bjhCtlYHrkgA5Ku8l-rB3g,Our Daily Bread,CA,Santa Barbara,3.5,106,54.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+7YiLEuHuUONZrMPT0OxXUQ,McDonald's,NV,Reno,1.5,89,122.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0
+-utd1de-UUgQKZE4VHVLlw,Superstitions Java,NV,Reno,4.5,61,68.0,1.0,,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+kf8HXRAZxtC7xVR0Tg-rhA,Num Num Boba,NV,Reno,4.5,114,58.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
+zxuVnNVAUm16Sro0dS_lmg,Roundabout Grill,NV,Reno,4.0,244,31.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0
+FYw5uf26ry8-MuPKD10z0Q,Josef's Vienna Bakery & Cafe,NV,Reno,4.0,382,49.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+3RtMd3VZ21WL5auDr6Jp9A,Cafe Zoma,CA,Santa Barbara,4.0,27,93.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+IjJSHYMgXV3ZQSAr0tn19A,Sip of Saigon,NV,Spanish Springs,5.0,71,57.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+7AAUjAvOS10dMx1F_QMaew,7-Eleven,NV,Reno,2.0,18,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+cBp1fn2LXpSHe4VbTXLYEw,Bab Café - Reno,NV,Reno,4.5,470,60.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+mGxaM5kUC2GhYkp3Dip52Q,Dutch Bros Coffee,NV,Reno,4.0,126,126.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+vlqcTafHh27AuDbYtoG8rw,Un Caffé Italian Bistro,NV,Reno,4.5,28,32.5,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GqQSFMLaM25zcM5OnCWnnQ,Nameless Coffee & Tea House,NV,Reno,4.5,63,45.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+wuzoQhym6ll3fjAiVgIJbw,Good Cup,CA,Santa Barbara,3.5,109,82.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+z37fpa6lh-HOIQh0MbQXag,The Mug Shot Coffee & Eatery,NV,Reno,4.5,29,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+PPcz-0UtIJ8O7xDT551y2g,Intermezzo By Wine Cask,CA,Santa Barbara,4.5,141,22.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+29YqJwOGEuAWqlHZxMc1OA,Paradise Cafe,CA,Santa Barbara,3.5,290,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+KiE0h68HGOO7ZXAqkMBdiw,Starbucks,CA,Santa Barbara,2.5,35,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+fAiPD2OIEm9wtS7uJqzu5Q,Natural Cafe,CA,Goleta,4.0,130,54.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0
+uVIOgGhOYozGPwpptrF3Cw,Microsoft Cafe,NV,Reno,4.5,11,35.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+h22117eMO-kVtCOLYYL6GA,Darkshot Coffee,NV,Reno,4.0,5,78.0,1.0,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+vyyr3G874jpRYSQo2KPZow,Cristino's Bakery,CA,Goleta,5.0,117,71.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+MbzgGsMQpGyVrUJXi_Jw0Q,Dawn Patrol,CA,Santa Barbara,4.0,807,30.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+O6RCCmz8-x4NhWJpI8KQug,Breakfast Culture Club,CA,Santa Barbara,4.0,108,60.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+GaktVVj3HWX0sVMlCXCWZw,Swill Coffee and Wine,NV,Reno,4.0,137,75.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+34Eqv8jXgxg_EEwcsNgeeg,Backyard Bowls,CA,Santa Barbara,4.0,659,63.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+qNXAR7i6Tb3m0J0UBurj6g,The Food Liaison,CA,Carpinteria,4.5,84,16.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+q_CK-buoiPFNDoNNU1yb1A,Emerald City Cafe & Catering,NV,Reno,3.5,32,56.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
+2yhZklZm-4SmAVYRdPK4XQ,Daily Grind,NV,Reno,4.0,5,55.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+RIXWht1pZG8pe1SJk5hhXw,Poke Theory SB,CA,Goleta,4.5,54,46.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+zMMSWTHxkLWYR359o-IuAg,The Nook,NV,Reno,4.0,103,24.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+agzEfydzvZWlbzpcMxLPBg,Starbucks,NV,Reno,3.0,41,103.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+1wvYBjX6radqmb_k0Fv_Ug,Palihouse Santa Barbara,CA,Santa Barbara,4.0,7,84.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+vsrryxBR2Jykl71qa1H6SQ,Caffe Primo,CA,Santa Barbara,4.0,114,37.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+NFFS6Qow43IRG6dRPgZCzQ,Cafe DeLuxe,NV,Reno,4.0,237,49.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+FkRQ735Sh9JOsHBQYXFkEw,Reno Coffee Company,NV,Reno,5.0,63,66.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+mcr1lAEdvGLMJhuPwI3I2A,101 Taiwanese Cuisine,NV,Reno,4.0,1145,22.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+ytaVHTK7kdHxUscf2PCrow,Moon Rabbit Cafe,NV,Reno,5.0,14,4.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
+zO0UwsrbwCLYFWpn5jZ2DA,Silver State Eatery,NV,Reno,4.0,38,0.0,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+tVNP5Ap6EAypgwsiPHWW2g,Keva Juice,NV,Reno,4.0,74,88.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
+Ell4MNXqG3r-hwp2EtNFlw,Dragon Spring,NV,Reno,5.0,7,47.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+g2N8NipQpKIR4h88m2PJXw,The River View Café at the Siena,NV,Reno,2.5,6,0.0,1.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+uiv7dH5PsqjOvIWr91iDDA,7-Eleven,NV,Sparks,1.0,6,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+alpF8d_veJy9Isk6f7wgRQ,7-Eleven,NV,Reno,2.5,9,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+I_Sxmx6puRYyLS51RtLqtQ,7-Eleven,NV,Reno,3.0,12,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+IDjYyBrPW5C2CT9mXsyuBA,Daughters Cafe,NV,Reno,4.0,461,24.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+29t8lDBLiwkEd1HA356dOw,Bagel Cafe,CA,Goleta,4.0,386,52.5,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+U1Gao2oKgFaggpksDIctiQ,Walden's Coffeehouse,NV,Reno,4.5,213,42.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
+kXfVql_wkaS7agu6gpzEkw,Bubble Tea Station Cafe,NV,Sparks,4.0,151,61.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+6afesz8yZhjOgijkWl4jig,The Coffee Bean & Tea Leaf,CA,Santa Barbara,3.5,77,100.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+mHqsNKj3UPMcQwGu-akL-Q,Starbucks,NV,Reno,3.0,64,72.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+ErvTvPF3vtLYsEqXqr0nUw,Hummus Fresh,NV,Reno,3.5,130,60.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+e1VGijMQdYT2JujHbf0Xbw,Kona Gold Coffee,NV,Reno,4.0,85,52.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+o8VR_4C-krOcgHiMoi-g6g,Einstein Bros. Bagels,NV,Reno,3.0,296,64.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+YcbkyXTAWjs4FwIMTUHB5A,Boss Coffee And Creamery,NV,Reno,3.5,25,81.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+uGo0TCVNOcDQxMArUU0Jrw,Cajun Kitchen Cafe,CA,Goleta,4.0,561,42.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+Js3m_GdqNUGnEgXJ8WMtfQ,Hana Kitchen,CA,Santa Barbara,3.0,253,80.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+jshnKTsnoXLSez5XD1qo7Q,McDonald's,CA,Santa Barbara,2.5,56,134.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+5RsVAkDnMrcSbErS6P1eew,Cajé Coffee Roasters - Isla Vista,CA,Isla Vista,4.5,251,73.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+EtGFDdjui_Hww78JU4XoXg,7-Eleven,CA,Santa Barbara,3.0,6,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+2RtyOlU9mwyVisvgOECaDA,Uniboil,CA,Goleta,4.0,209,54.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+1pd4VYTww1UWDVai2r2RKg,805 Boba,CA,Santa Barbara,3.0,248,49.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+DekNG7GWeU28-aMpbfJwNw,The Human Bean,NV,Reno,4.5,149,80.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+EzkR89g7pIm12IldI5e6gQ,The Urban Market,NV,Reno,4.5,65,85.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+RX3gzXCiKOe2vI7zyB20mg,Cafe Int'l,CA,Goleta,3.0,53,58.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+3lty2YUwjp61iUqNgKVEMw,Marmalade Cafe,CA,Santa Barbara,3.5,175,76.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+NG3SFWgDgjMMpIJoQoQ3XQ,MJ Cafe,CA,Goleta,5.0,11,0.0,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+lSe_4H6iy6jmnDh_I_AGCg,Hub Coffee Roasters Roastery,NV,Reno,3.0,6,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+nMn4CTJQPXqpgLltYQrxMA,Cajé Coffee Roasters - Haley St,CA,Santa Barbara,4.5,240,52.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+xQ850u4BgjrN0tpun1zGXA,Hub Coffee Roasters,NV,Reno,3.5,13,46.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+W8fyKHzZX68SQWFvwq_JMQ,Hub Coffee Roasters,NV,Reno,4.0,459,48.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+Ku1tYMgJtiURXFR_1dTtsA,Keva Juice,NV,Reno,3.0,47,73.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+ZllDVefj_NbGdsMUR5LS2A,Fairly Grounded,NV,Reno,4.0,12,83.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+e8NRt-1C8eI85C59pKhJuA,Caffe Luxxe,CA,Santa Barbara,3.5,50,47.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+A2slwG21Uulatt357w58PA,Mojo Asian Fusion Café,CA,Isla Vista,4.0,98,46.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+f6eBJT2jiXXBkrlHdJMbcA,Gladden and Sons Produce,CA,Santa Barbara,4.5,40,54.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+8qGe4GQYyZstFhYa0rvpIg,McDonald's,CA,Goleta,2.0,58,133.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,1.0
+RtJC7xavgAxOITQyAlGCbQ,Tri-County Produce Co,CA,Santa Barbara,4.0,95,84.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+N4o-T6EeZja_fIatrFwx1A,The Lodge,NV,Reno,4.5,36,47.0,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+lu2UpRHLBZfvLG_caNEHKQ,The Natural Cafe,CA,Santa Barbara,4.0,566,49.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+PWWGbkPC_agn-4s1Hv1W5A,Handlebar Coffee Roasters,CA,Santa Barbara,4.5,1048,50.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+gsXBNWHWhHv_f9NcwpVajw,Lighthouse Coffee,CA,Santa Barbara,4.5,29,70.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+zEZO2ySF7ym3rWyXBln0zQ,Outlaw Coffee,NV,Verdi,4.5,78,44.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+qS7uSZdQ3f0HqYSSaiYQ3A,7-Eleven,CA,Santa Barbara,2.0,10,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+JfXYFsOEElqn5ukwDBml6Q,Phresh Teas  - IV location,CA,Isla Vista,3.0,10,60.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+AV--_bzb6m-RqUfk269DBA,7-Eleven,NV,Sparks,1.5,15,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+-qCCfmWdjCC16j2AQUtOzg,Se7en,NV,Reno,3.5,8,51.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
+p2kC-cD22QAQzIGD8ZuqFA,Peet's Coffee,CA,Santa Barbara,4.0,73,70.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+tjIIpbimdbi9Lrb-DoIzKg,Kaiju,CA,Isla Vista,4.0,64,56.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+W8a_FYH-405MtR9_0U7sQQ,The Worker Bee Cafe II,CA,Goleta,4.0,35,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+7grEnJV48N6BxbEP3uxISA,Mr B Restaurant & Cafe,CA,Santa Barbara,4.0,21,70.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+S7Cl9gYqaC9jlw32yd4_Yg,Starbucks,CA,Santa Barbara,3.0,50,87.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+zWNz-y5mVcJA364mVV-XRw,Crafted Palette,NV,Reno,4.5,144,34.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+1Jo4UC0YNPoPm9Gfur8tQA,McDonald's,NV,Sun Valley,1.0,39,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+eXTIdWDxaZ4Dh7hB0--kGA,Starbucks,NV,Reno,3.5,14,69.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+cOoTIQ0RcudE1R5aRVZzdw,The Garden Market,CA,Carpinteria,3.5,92,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+gdEZfd6RFXYmmXX71RDvbA,C'est Cheese,CA,Santa Barbara,4.5,272,0.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+L8rhRyXtpq2nCE0il1KN_g,Coral Tree Cafe,CA,Santa Barbara,3.0,28,47.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+eFn-8QlFGdkT_B-bWigtFQ,Rose Cafe,CA,Santa Barbara,4.0,115,79.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+M3LZKA-tVFRJyPeKA3_2OA,Merci To Go,CA,Santa Barbara,4.5,9,34.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+3tHYTqsJcsZ578bmcneY0A,McDonald's,NV,Reno,1.5,67,128.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+lkwj0-9Sc_anMVNlnuqYAA,Mojo Coffee,CA,Goleta,4.5,12,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+liqVJX9k7jCqk9JohlosPw,Sierra Cafe,NV,Reno,4.0,10,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2pBNVsJo3a3CPbInUu9lvQ,Char West,CA,Santa Barbara,3.0,134,74.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+r28E3Magy-W_w2V_0jfMdA,Starbucks,NV,Reno,3.5,23,81.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+_T8tOBDr3NKNxd0yl5GwjA,Starbucks,CA,Goleta,3.0,113,110.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+XkveGZ8pr9TL5bZCqmzuhA,Hustle & Grind Coffee Company,CA,Santa Barbara,4.5,50,55.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+-loV4cB2Uh9TCltTRgGzWQ,Renaud's Patisserie & Bistro,CA,Santa Barbara,4.0,379,53.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+4uspKB1d3pGdgjOClA-UkQ,Cajun Kitchen Cafe,CA,Santa Barbara,4.0,234,52.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+p6yHZaiijFq4b4P3sYSRjA,Merci Montecito,CA,Montecito,4.5,34,42.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+FSWJmMXXKAXdL6mrc-DzBQ,Nordstrom Ebar Artisan Coffee,CA,Santa Barbara,4.5,21,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
+2XK7ZqKSygxnn7iDpIeRbw,Aroma Club,NV,Reno,4.5,61,69.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+2JBon9dZPJLF8oKkxH7KCQ,Sierra Cafe,NV,Verdi,3.5,42,102.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+tARR9jhv5gi9TjsfSVmjmw,Kaffe Crepe,NV,Reno,5.0,454,52.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+ZQ1xusCuRoHneUw_PfZM3w,Dorinda's Chocolates - Downtown Reno,NV,Reno,4.5,133,54.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+XSL9RuLwRTyhNUwUo7WAPw,Starbucks,CA,Santa Barbara,2.0,18,129.5,0.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+upxQiiUF-6NM9jOJCxS_hg,Hennings Cake Boutique,CA,Santa Barbara,4.0,8,37.5,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+co28Isl2nsvX4-dd33R_yw,Starbucks,NV,Sparks,2.5,98,108.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+Tgq7FzfhLx97K5NBXGO5fA,McDonald's,NV,Reno,1.5,52,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+wUCMIE7mRpS6oijQzJBgDg,7-Eleven,NV,Reno,4.0,7,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+zNbRWVCKNe6gBShmnuAQNw,Ice Milk Company,CA,Goleta,3.5,112,58.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+9-1C7wFYA53uxXXYTYCbKw,Bytes,NV,Reno,3.0,11,72.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2Eyu9uCg0xbitNE_d4u46g,Tahoe Roasting Company,NV,Reno,4.5,5,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+KobS8yqBelXH11gaIhZJSg,The Endless Summer Bar Cafe,CA,Santa Barbara,3.5,258,73.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0
+VgAKmXE8B7J0I_O_R13UKQ,Santa Barbara Roasting Company,CA,Santa Barbara,4.0,511,70.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+-JkiE867GwCUuXFETjba2w,Jack's Coffee Shop #2,NV,Reno,3.5,129,55.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+cPQraNrJFprte7438BpD0g,Dunkin,NV,Reno,1.5,16,91.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+L9CFXQbU79r6PK8Cy9aAgA,Gimeal Cafe,CA,Goleta,4.5,297,66.5,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
+HNtTgTEYl3kBSN5U5FHHqA,Hub Coffee Roasters,NV,Reno,4.5,200,61.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+F8H5zuu_eTx8KpmkgO5JAw,7-Eleven,NV,Reno,2.0,6,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+IHtbAL6m1T234D-3Q-lC7g,Gao's Noodle House,NV,Spanish Springs,4.0,55,50.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Iq7LZi_MCUg8xAfboc_r7g,Davidson's Organic Teas,NV,Sparks,4.0,15,42.5,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+qGEcvCAdOGqaHMCg5izq2w,Starbucks,NV,Reno,3.0,47,80.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+UOiqYBdIPRrMm-lnEbbjBg,Bibo Coffee Co,NV,Reno,4.0,90,105.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+qKvQzhukpomdY3ITSSJ5eg,"1, 2, Tea",NV,Reno,4.0,200,54.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
+Un-UDVOuv1co3TMmGaumxA,Shoreline Beach Cafe,CA,Santa Barbara,4.0,534,62.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+jKEZv7ID6c5oDPIE30BS4A,Dutch Bros Coffee,NV,Reno,4.5,38,126.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+lLDB5H7_Uqpc9hUd_A3Xaw,Biggest Little Boba Shop,NV,Reno,3.5,37,46.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+RP8JKUeQHwz_aRYjmipokw,Donut Bistro,NV,Sparks,4.0,156,112.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+613euL4IockQDQ3tFi_M6A,Record Street Cafe,NV,Reno,4.5,5,0.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+-TSPsir3LSLO9vVBkvkqUw,The Coffee Bean & Tea Leaf,CA,Carpinteria,3.5,53,107.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+R6IRHj65pEE-YJHVudBuVQ,Starbucks,NV,Reno,2.5,77,97.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+CbpT0UHGugQdpfK5HUekew,Austin's Restaurant,NV,Reno,3.5,11,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+-bxLBGgtchd-O6-2CdDThA,Coffee N’ Comics,NV,Reno,5.0,110,85.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
+vLKZGIQYKaTDxcY5shttWg,Starbucks,NV,Reno,3.0,5,101.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+e1l1IlKpL7FJlM4ivnoO2g,Bubble Tea Station Cafe,NV,Reno,4.0,159,52.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+IZZ7J14VnJGyUqYH1tgT6w,Satellite,CA,Santa Barbara,4.5,159,47.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+ReKQjTVB8L2vnaxZKmRUpQ,The Original Mels - Reno,NV,Reno,3.0,269,123.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+kxxexMsFL4xJLIafhXXFlw,Esau's Cafe,CA,Santa Barbara,4.0,160,109.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+QCaidu0NAS_sseca_xe4hQ,Walden's Coffeehouse,NV,Reno,4.0,383,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+RpxJ4-rYuqAI2an7WGELFQ,Starbucks,NV,Reno,2.0,35,48.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Tpr8CltepNzpRpQC2JM4pQ,Sage & Onion Cafe,CA,Goleta,4.0,90,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+lzx4AFxrByuVxgyZwRMYYg,Starbucks,NV,Reno,3.0,53,78.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+JXhIz744GI7U_ereD9Nf8g,Jack's Cafe,NV,Sparks,4.0,281,49.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+_l05Dd6BKBAiJKX71bLq6g,Open Cup Coffee & Tea,CA,Santa Barbara,4.0,11,97.5,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+KWIgNJwWWS34AvGaC0HdYQ,Starbucks,NV,Reno,3.5,53,90.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+u3uB0GD7cVf5NC-AFHdwnQ,Golden Line Coffee Bar,CA,Santa Barbara,5.0,10,19.5,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+5vIfUavd23X3lBzjnnc4QA,Winchell's Donuts,CA,Santa Barbara,3.0,21,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+_oEolwACvc0oFQdd8yM6gA,McDonald's,NV,Reno,1.5,51,128.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+lA5BOb5Om5cn_dfwiOgbNg,McDonald's,NV,Reno,1.5,111,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+Hj44PIrCtv61ETVclzLMwg,Jeannine's American Bakery Restaurant,CA,Santa Barbara,4.0,380,24.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+NCHUoBAMTDqI754PICPN9A,Starbucks,CA,Isla Vista,3.0,99,84.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+qGktl0XjPNgc1nRJavkLGA,Starbucks,NV,Reno,2.5,17,55.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+JU4Ea-xwPCGOUG93TUrVmA,1 2 Tea,NV,VC Highlands,4.5,40,60.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+msIS0f3xGr0SQFqkQ1wM3A,The Blue Bean,NV,Reno,4.0,6,45.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+SWP5Cck3Hd_g-KWfVkF_IQ,KOL'S,CA,Isla Vista,4.0,26,30.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+7o-p4IlitJ-SbSCZ84vHqQ,Campus Point Coffee,CA,Goleta,4.5,10,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+L9QTAucz_in5f-ufCrvb1Q,Live Culture,CA,Santa Barbara,3.5,43,85.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+Aj44kUBmEfJlUsGCvKJKtw,Starbucks,CA,Santa Barbara,3.0,21,84.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+6SYG6M05gIwaj3doas6X9Q,Tealeaf Cafe,NV,Reno,4.0,125,54.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+bTVY4S3fC-ZI4-Vy-fvCsQ,7-Eleven,CA,Goleta,3.5,5,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+jgOgj1gvfPy3DEIpSjQiOQ,McDonald's,NV,Reno,2.0,37,132.5,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+p73i2GDzPRZJbYBa8qtpSQ,IV Drip,CA,Isla Vista,4.0,146,122.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+3fpAmsSuEFNF29UUPpgwlw,Spudnuts & Bagels,CA,Santa Barbara,4.5,292,80.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+dDU-0EW4Asx-RnM-vULFQw,Lighthouse Coffee,CA,Santa Barbara,4.5,87,70.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+0Qs-G8Xs-mz-jmQH5lez5A,Museum Cafe,CA,Santa Barbara,4.5,22,20.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+q7kwvOr9Cr3isDn6r-FaHA,Fresco Cafe,NV,Reno,3.5,15,35.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
+JIf1gHuAp_abYX7i1b2Y-w,Mellow Fellow,NV,Reno,4.0,285,74.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+to6wzDW0qBkrY6zttmngZg,HeliCafe,CA,Goleta,5.0,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+etqiTJ31Bl3Fuh3CWTSHxw,The Coffee Bean & Tea Leaf,CA,Santa Barbara,4.0,49,103.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+57i-zASRB3jO1S6_oPvcZw,Isabel's Bakery,NV,Sparks,4.0,123,40.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+mQtDQblKR8-RY295XLyGMA,Starbucks,NV,Sparks,3.0,14,105.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+uQSCNdPI0dC_sPsOh1U8NQ,McDonald's,CA,Santa Barbara,2.0,41,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0
+WVYcB73fVpBMznlhhqjL4w,Glory Cloud Coffee Roasters,NV,Sparks,5.0,27,27.25,1.0,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+0iLgVQpBeIYYwQZIblTTVw,Cafe 154,CA,Santa Barbara,4.0,10,56.5,1.0,,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+UiJiURqivPDuvMsFgRF3yQ,The Honey B,CA,Santa Barbara,4.5,215,44.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+0pVM5OaWWu-M0TWMQ9Zwyg,Mendoza’s Coffee,NV,Sun Valley,4.0,33,78.5,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4UEL40Ux-iZfk589CK-iQg,se7en,NV,Reno,4.5,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+YP6IjFUxh9_VcFUWq5ru-g,Mellow Mornings,NV,Reno,3.5,6,35.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qh4SE3580B-nnH3DwuAXOA,Cafe Zoma,CA,Goleta,4.5,10,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+TF3qNGUBUgIYp6u0j79JHQ,BJ's Nevada Barbecue,NV,Sparks,4.0,702,64.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+lCpO0y4VR19qMGWprbiGDQ,Starbucks,NV,Reno,2.5,96,125.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+1oGCzoCC6HnQWpdK9cCP0g,Low Pigeon Coffee Roasters,CA,Santa Barbara,5.0,93,52.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+9oJinxECxlSutUM0kBOixw,McDonald's,NV,Reno,1.5,34,128.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+gwGLBmNTfIlaTnwFtddbkQ,My Favorite Muffin,NV,Sparks,3.5,134,43.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+FBqYnP7H3TMHYQvafuBTSA,Hiwi Tropical Fusion,CA,Goleta,3.5,155,91.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+Bye73IBqt2u37RKTgwv8sg,Bibo Coffee Company,NV,Reno,3.5,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CfxaspC1y3xfmL_AnA-7MQ,Branding Iron Cafe,NV,Reno,3.5,70,168.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+me-gE1a7-DRGK9oeuCmbrw,Starbucks,NV,Reno,2.5,95,112.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+45D7B9CqiUTTPUFcqmLx5Q,Live Oak Cafe,CA,Santa Barbara,4.5,263,36.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+HGRR2w9KddspVBYA-4bSlQ,Sunnyside Market & Deli,CA,Santa Barbara,4.0,12,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+O6fpSQsG6waSug3tccobew,Starbucks,NV,Reno,3.0,77,100.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+0iHHsSqphxrBWWecYEJcuQ,Cajé Coffee - Arlington St,CA,Santa Barbara,4.5,72,48.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+wUHUyTrOpUcTVTQpyZFo8w,McDonald's,CA,Santa Barbara,2.0,34,114.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
+elEQxid6rZ3tRZF1Kwkr9A,Café Milano,NV,Reno,3.5,486,168.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+qvnfFOgJOvon_Ak8loYMxw,I Bean Grounded,NV,Reno,3.0,16,75.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+uEv1I-0r82Krj4eEysjC4A,Red Kettle Coffee,CA,Summerland,4.5,122,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+iuTj4Se42VUto09Stkiq4A,Teavana,CA,Santa Barbara,3.5,19,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+PaP2OwAFRITcjJ_Xb6dUAQ,Old World Coffee Lab,NV,Reno,4.5,15,30.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+r_UPGh9GHMyBhPVMKVxRuw,Cajé Coffee Roasters,CA,Santa Barbara,4.5,36,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+14UWSgKjw5YLBqKYjBPjtw,Manila Bakery & Cafè,NV,Sparks,3.5,34,0.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+R722fDi0r2oamiWjbnRP2Q,McDonald's,NV,Reno,1.5,103,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+rsEy48n_jB0I-Mofec1NJA,Highway Karaoke and Fresh Tea,CA,Goleta,4.0,105,88.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+kCAvqT_3AWOHx80VALz2lw,7-Eleven,NV,Reno,1.5,6,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+4sOLSCiwSdHhzcXC9Sd0xQ,Northstar Coffee,CA,Santa Barbara,4.0,23,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+jS8VAzNJjjekJwBknEFZFw,The Roost,NV,Reno,4.5,50,62.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+puDcIJMwP0H_vy9Ty8HFFQ,Starbucks,NV,Sparks,3.5,39,89.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+yOvGqROeTabICY7c80h98Q,7-Eleven,NV,Reno,2.5,15,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+3DSgJFIaXjdknbZn3LSnPQ,Dart Coffee Co,CA,Santa Barbara,4.5,123,65.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+9gQ3s8WlhHTJen4bCkZYGQ,2nd Street Café Express,NV,Reno,3.0,53,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0
+jl0QetAu4Tgf4mq33ZN9VQ,Le Crepe Cafe,NV,Reno,4.0,89,48.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+Hl_vXTiYLozWo7T9Cq17vw,Aperitivo,CA,Santa Barbara,5.0,47,18.0,1.0,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+w8Imup3Dy0-v377-ixFuWQ,Vivoli Café & Trattoria,NV,Reno,3.0,76,24.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+gYrHa4CckDjgOQc5B-yTKA,Reds Bin 211,CA,Santa Barbara,4.0,101,64.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+yIAgFdYQY3UdfDn-qO0K7g,Arts & Letters Cafe,CA,Santa Barbara,4.5,67,24.5,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+uQcKo8m34OULhySxwRaOAg,Nicoletti's Cafe,CA,Isla Vista,3.5,9,54.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+70vQqNfFTdA3FmqjFDnVfw,McDonald's,NV,Reno,2.0,56,119.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+iJp9sq8UddLSrUtIieoD0A,Good Cup,CA,Santa Barbara,4.0,108,92.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+Ukn2qaxEP0sbjoiwn2LwhA,Onus Donuts,CA,Santa Barbara,4.5,37,45.0,1.0,,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+QFh-h_OZ5Io-mBk32HN28A,Kyle's Kitchen,CA,Santa Barbara,4.0,638,69.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+ZTg2GBgQj1WwAO5ySsTAQw,Beach Bowl,CA,Carpinteria,3.5,55,30.5,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+2HKLaz8nktScK4-1hIFykg,Artisans,NV,Reno,4.0,9,47.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Z0mBsgDzDnFAEC5o4X6G9g,Java Station,CA,Santa Barbara,3.5,196,77.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+70kwtAF7XEtP2WZkOn34fA,Bazaar European Deli & Cafe,NV,Reno,4.5,118,65.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+ip4LFXDktVPxnyq2Ld5i0A,Green Star Coffee,CA,Goleta,5.0,23,32.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+-M7wzxpUsdSkQd9PDGsJWA,Tyler's Donuts,CA,Carpinteria,4.0,52,105.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+mqKz51qAxfcBaUhNCGcysg,Great Full Gardens - South,NV,Reno,4.5,486,61.5,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
+Nr-ew8B5DBXIhdt1oE9_-A,Jack's Café,NV,Reno,3.5,32,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+tfhmTE3ORFmHuo7phIY-KA,Spread Peace Cafe,NV,Reno,2.5,23,82.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+PnLZ1uKbRZkv6t72gSvCwQ,Starbucks,NV,Reno,3.0,26,84.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+pWDE_rueENu_f5HKA_AsWw,Dune Coffee Roasters - Storke,CA,Goleta,4.0,159,65.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+Lmstm1D0Ch8QP1b2TB-tVw,Perenn Bakery,NV,Reno,4.5,121,54.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+UGADjVkBITKPU7I6sMO1oQ,Bella Dolce Bakery,CA,Santa Barbara,4.0,9,43.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FH0MVF7kK0D76Hh4e7hXfQ,Jeannine's American Bakery Restaurant,CA,Santa Barbara,4.0,575,30.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0
+PDdUfkGAsNLUkgHaJg3tVw,7-Eleven,NV,Reno,2.5,6,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+a9K3jxNUUe6jr1uh8FsakQ,The Patio Cafe Santa Barbara,CA,Santa Barbara,3.0,65,48.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0
+RTEaH3i8X3yCLNjOdPw3Pg,7-Eleven,NV,Reno,2.5,5,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+_JK1veKwxAwk1rp4H7z-1g,Starbucks,NV,Reno,3.0,40,72.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+ZtDiNvGta1prJKyAXhawNg,Desert Sun Bagel,NV,Reno,4.0,18,45.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+1l4-uhraQzNiRjppKyMUUQ,Jeannine's American Bakery Restaurant,CA,Goleta,4.5,117,31.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+wmEZ3OqLuD1Z6b3mJSl1yg,Xo Coffee & Tea Bar,CA,Goleta,4.0,55,59.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+ma9v_hyIJtb63dtXfVnamQ,Takoda Gourmet,NV,Reno,4.5,8,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+ol6ATB97MdIuhm6yAGOeMQ,Lucky Llama Coffee,CA,Carpinteria,4.5,486,52.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+T0L0KltiJMAtrYHjqyuoMw,Starbucks,NV,Reno,2.5,16,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+L4-_gPiqsuX50JN_-qUhNQ,Jeannine’s American Bakery & Restaurant,CA,Santa Barbara,5.0,41,36.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+JnFpgav_bgPN6aSJDYpzyg,7-Eleven,CA,Isla Vista,2.5,24,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+55Q1klIhnn7tcJ6inLtwiw,The Jungle,NV,Reno,3.5,267,114.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+lpUn1M5exBmKegS1_f3WHA,Wood-Fire Roasted Coffee Company,NV,Reno,5.0,43,20.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+fFj8iQ8eVZui5kcPzPVIJw,Dunkin',NV,Sparks,2.0,259,108.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+wacMqAA_9USygYvgJAkfgw,Cafe Bellini,NV,Sparks,3.5,129,168.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0
+j6TDQvbRoMszGR0hyaVxvw,McDonald's,CA,Goleta,2.5,57,129.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+mHmIoIGOfpidrS1fYQ9PbQ,State Street Coffee,CA,Santa Barbara,3.5,92,59.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+qUH2FppY7RL96F5tXzA0hQ,Dune Coffee Roasters - State Street,CA,Santa Barbara,4.0,633,63.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+5N33VO4gB41-8Cqm0FzbGA,Sips Coffee and Tea,NV,Reno,3.5,29,112.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+dHB4vS2CFu2GlQ9ERG5H3Q,Crepe N' Roll,NV,Reno,4.0,58,66.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+ZRy4atrG3YHdb__qtE0FsA,Mulligan's Cafe & Bar,CA,Santa Barbara,3.5,71,98.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+XXsofYxziipczzc3OFDD5Q,Caffè,CA,Santa Barbara,3.0,8,63.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+YJUJqez_Sg0hFDEXHYls0Q,Bibo Coffee & Gelato - West Street Market,NV,Reno,4.5,19,24.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+3RPeXlx93lC_W3AH89-SjQ,The Eldorado Coffee Company,NV,Reno,3.5,36,42.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9Ekfby4OgzWs96RO8M4tnQ,Caje,CA,Carpinteria,4.5,5,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+k-q7lm2ovMSTZa4j16OzGg,Gloria’s Cafe,NV,Reno,4.5,106,37.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+n_RyzuCAiR4yW2JLkl0Jng,Cafe Shell,CA,Santa Barbara,2.5,21,9.5,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+6tXfFVJJwfWOY9n7LK8dVw,Siu Asian Express,NV,Sparks,4.0,90,55.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+oS02owt-XB2RtDbogYyn-A,The Coffee Bean & Tea Leaf,CA,Santa Barbara,3.5,50,84.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+hrEtM0WMgwhv19mzVnKiJQ,Magic Pita Cafe,CA,Santa Barbara,4.0,26,34.5,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+sSY87quBd3LjV5Rk-KcPPw,Petra's Pretzels,NV,Sparks,4.5,7,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+2rv-W-PBYciHvOhruq8rlg,Java Jones,CA,Goleta,3.5,15,119.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+eFeBGZ8xbYR-LiESfovs_g,Chuck Wagon,NV,Reno,3.5,7,50.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+8u70WVawnsReBWNv7IXNSg,Ding Tea Reno,NV,Reno,4.5,87,61.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
+UpWlqQ_jrTF4JAtdGZL33w,Madame Butterwork's Curious Cafe,NV,Reno,3.5,78,28.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+OJ9DJLWvQV0h-ZU07QEKag,Gelato n More,CA,Santa Barbara,4.0,126,69.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+YcY48yvPw6-FE-5DJCY14g,The Glass Die,NV,Reno,4.5,105,45.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
+NmJX_LZ7ShIZqspI31RVZA,Starbucks,CA,Santa Barbara,3.5,85,93.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+yEmEDomLUofVtbZoUeFV5g,The Daily Grind Coffee & Tea Station,CA,Santa Barbara,4.0,312,66.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+7BNS9K9LKnlK3lI9JQsBHQ,The Lucky Childe,NV,Reno,4.0,19,60.0,1.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+kl2aUBT46mTCujJEWYgS8w,Box Eatery,NV,Reno,4.5,13,42.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,4.0,0.0,1.0
+vyWlrMyMypGPnipA7ovgSg,Borders Books Music & Cafe,NV,Reno,3.5,14,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+jmMCUCuErJP7EtR_6RVRig,Purple Bean,NV,Reno,4.0,150,74.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+JD4yd4N8HCDziaJKJXk2yA,Tori's Oatmeal Lounge,CA,Goleta,2.5,5,168.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
+ue-Me7wcOixhdHNOEQ6j3Q,Starbucks,NV,Reno,3.0,46,105.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+LG9WtCRXx_PAr0y4nO0qjg,JoStella Coffee,NV,Reno,4.5,89,50.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+cQDwJjslebJv5Co7gCm2Yw,Cafe Ana,CA,Santa Barbara,4.0,91,0.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+TMfqKovAdxptiQTqv5gslg,The Cafe at Rail City,NV,Sparks,2.5,16,35.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,0.0,1.0
+zuhraj8YI2SZazlUS4GFew,Americana Café,NV,Reno,2.5,86,62.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+efVCzhiCt7bnlWzQyQlYYw,McDonald's,NV,Sparks,2.0,64,98.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+TiapTI04Gtgj8AhIN-9fqQ,Opa Subs & Espresso,NV,Reno,3.0,21,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+BrtXtNgpCXjcyCKqLW3jPg,7-Eleven,NV,Sparks,2.0,14,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+uJc9lKaxLNBZch866x4_pA,Marketplace Cafe,CA,Santa Barbara,4.0,47,41.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+s27GlS3WCN7b4dxTpainrg,Twin Cups,CA,Santa Barbara,4.0,7,69.5,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+F-Z2J3GDTNge3K6bsbnKSw,McDonald's,NV,Spanish Springs,1.5,49,137.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0
+AzQIIA5d5YFrU03pyhV1fg,McDonald's,NV,Sparks,2.0,54,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+Ix0DIZoP26W63pu85KBykw,Wow Wow Hawaiian Lemonade,NV,Reno,4.5,35,56.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+odPkQbmZAfsqe2GI760Q0g,Cafe Espresso,NV,Reno,3.0,30,168.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+aOLFlIQibMg_lT2X4qKM2g,Dean: A Coffee Shop,CA,Goleta,4.5,96,68.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+OS-4bz9u46-7sVBTMfhkhg,Cabana Cafe,NV,Reno,3.0,18,105.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+LMm555z8BReDxgkpF_TEug,Park Place Deli,CA,Santa Barbara,4.0,9,62.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+nAZEMdurfbWLxl9dryfgeA,Wake Cup,CA,Isla Vista,3.5,116,70.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+IRJvFUVDEfS7YQJaiaV8zg,7-Eleven,NV,Reno,2.5,7,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+rH80UXr5YBv4um7phwwwMw,Crushcakes & Cafe,CA,Isla Vista,3.5,53,72.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+m2iS4YYmcq6pFpaGCtO-Iw,Cafe Int'l,CA,Isla Vista,3.5,14,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+S8TWiMbbBaCNUHbQXOCBNg,2-D Wok,NV,Reno,4.5,171,35.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0
+dMOwtXTM1j_RP18Wl1RC-Q,bibo coffee company / bibo freddo gelato,NV,Reno,3.5,138,84.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+3kNwvKixMwe44dWvQd5PAQ,Vonz Diner & Collectibles,NV,Sparks,2.5,8,59.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
+mVZhzTJ5xoneXa9XMWRyCg,McDonald's,NV,Reno,2.0,9,112.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+GmoYBvRsVa18G5FPiXk8JA,Peet's Coffee & Tea,NV,Reno,3.0,33,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+WVNkMz4sEl35swjVtKHOFw,Alessia Patisserie & Cafe ,CA,Santa Barbara,4.5,112,46.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+tpW26ob4-YTGLQr6xC7mbA,Java Ship Coffee,NV,Reno,5.0,22,68.5,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+thlyktt2c7v1DyOpSVSibw,Scarlett Begonia,CA,Santa Barbara,4.0,897,30.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+_Mbw_orl5EdXJP1XzklQvA,Mimi's Cafe,NV,Reno,3.0,338,76.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+_mGAcxIOqKcL3muEg3LHLA,McDonald's,NV,Reno,1.5,106,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+TebJaTyTkScemRVHZUAPoA,Paisan's Old World Deli & Catering,NV,Reno,4.5,205,32.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+c7GJVA-6lQxcH6QkrRiW0w,Hot Spots Espresso Company,CA,Santa Barbara,3.0,35,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+_6p_j0UL7ST3b2nvHw82eA,REBAR COFFEE + KTCHN,CA,Santa Barbara,4.0,160,82.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+gFdBHaAKtCycQuVX3fd9Hg,The Java Bean,NV,Sparks,4.5,22,32.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+kwqXOtLCbNjgvwuMj4H1AQ,Montecito Gourmet by Village Cheese & Wine,CA,Santa Barbara,4.5,70,40.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+y8RbDyDJd-zGcgThqIZWDg,Zizzo's Brew Pub,CA,Goleta,4.0,36,98.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+3xHyD9FBsQjHXgwI31czXw,7-Eleven,CA,Goleta,2.5,10,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+GUuLWkqfieTDwORs8z8mDg,Courtyard Cafe,CA,Goleta,3.5,15,48.75,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0
+r926yelr_EJAKQCjdD6AWA,State & Fig,CA,Santa Barbara,4.0,519,18.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+3n7VGTZQKyWycuhU_j0lqA,Alchemy Wellness Spa,CA,Santa Barbara,4.0,58,64.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0
+47JfuGySAVhQmIYynH_yfw,Starbucks,NV,Reno,3.5,33,105.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+DuBmz6aUgECGvIZm1ZOsag,Peet's Coffee & Tea,NV,Reno,3.0,20,98.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+v8GLvA8kl1_1L8I2Ie1RCw,Grace Bake Shoppe,NV,Reno,4.0,8,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+FT-cRqGz3kJBDgXr-9Fdtw,Sips Coffee and Tea,NV,Reno,3.0,10,0.0,0.0,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+8q25GCkL0PngPIlCu2j4Vw,Pangolin Café,NV,Reno,5.0,132,47.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+IIg_XileiB4DRqlTAuVdMQ,Bonanza Casino,NV,Reno,3.0,91,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+mMuvlDGcJrokNFd4ob9tcw,Feast: The Cafe at Field + Fort,CA,Summerland,4.0,32,56.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Uif8NGtHlCJmMdrV3pVqCQ,Starbucks,NV,Reno,3.5,22,108.5,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+elX9a3nvGMSweRaMWgSb0Q,Starbucks,CA,Santa Barbara,3.5,92,89.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+fZzvYELAKZ0A8wePhHvdiQ,Millies24,NV,Reno,3.0,242,28.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0
+rlVL-Q-fActNnxip07Z1kw,Hi Point Coffee & Cafe,NV,Reno,4.0,120,48.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+Ee-V8jWifZDvRyFrSW5LIw,The Daily Bagel,NV,Reno,4.5,611,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+6E9KjyDAdL_vDQCWwhj_KA,Crushcakes & Cafe,CA,Carpinteria,3.5,264,63.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+xUd0QOyVzx9SQhWulcOPAw,Book Ends Cafe,CA,Santa Barbara,5.0,61,39.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+NORF647ibBQ4U-VNMgzSLg,Oakberry Açaí Bowls and Smoothies,CA,Santa Barbara,4.5,77,81.0,1.0,,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+jtgBkAQuchDYgkdsebzLsQ,Old Town Coffee,CA,Goleta,4.0,300,90.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+myKiQiaRJsPfYnlSW7_qEQ,Dreamer's Coffee House,NV,Reno,4.0,10,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mqI7dRVusi8Ktwvx5-p0hQ,Silver Spoon Eatery,NV,Virginia City,5.0,10,46.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+B2KGQwnxjpdY4TIVqmG3XA,Wet Hen Cafe,NV,Reno,4.5,484,28.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+C6AiAF35zwpAoK5jjm-nhA,Montecito Coffee Shop,CA,Santa Barbara,3.5,37,51.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+v-oSCziSbc_S8Ko5nUOI9A,Gourmet Grind,NV,Reno,3.5,23,105.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rZ6i69fbbLdgiIgmU5sFUg,Pho Cafe Hong Kong Diner,NV,Reno,3.0,239,122.5,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+bSgnLV5MkJycHpv6l5cnNA,My Favorite Muffin & Bagel Cafe,NV,Reno,3.5,83,57.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+yBrK-DwpdbJY2F795ZStcw,Starbucks,NV,Sparks,3.0,55,107.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+x4L77IWKk9Yd_d-WNxVb_w,Global Coffee,NV,Reno,4.5,73,44.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+C9_UPkwXYx9B3fxNLkCHgA,The Coffee Bean & Tea Leaf,CA,Santa Barbara,3.0,8,91.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+M1r6v01bF7GQFH30FTbyAg,Starbucks,NV,Reno,3.0,33,97.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+NCMTfUJYTasYZ64UuGC-rg,Pizza Online Company,CA,Goleta,4.5,105,61.5,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+ZzI68qUPwySLG3pFeQxg6A,Sade Turkish Coffee & Delights,CA,Carpinteria,4.5,20,36.0,1.0,,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+Kul4eM5SoI36a0jWk5Zu0A,Bubbletea Station,NV,Reno,3.0,70,73.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+FYs3jIvpxRCeTHMn2nOWDQ,Starbucks,NV,Reno,5.0,5,78.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+QjQ-gtUnkne7jch0OLsPIg,Rosie's Café,NV,Sparks,2.5,381,130.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0
+XTcqhIF7Rfm43aHzJPXT_Q,McDonald's,NV,Sparks,2.5,40,129.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
+4fKGv-3XMlxv_vuiFbuwLA,The Drive In,NV,Reno,4.5,63,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+JRBfLvTRf8umVgq7ZSOm9Q,Cosmic Coffee,NV,Reno,4.0,14,37.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nB6wv6EY7ExXdehFs6sB4A,Pure Water Systems,NV,Reno,4.5,80,46.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+O0kQGkmlllaN7oU6sQyzPA,Flir Cafe,CA,Goleta,4.5,21,35.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+wObna18K6-5V-rutqz-jTw,Pathways Cafe,NV,Reno,3.0,9,30.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+i9ASBmmIJS3RjN_UP-TtKw,Starbucks,CA,Santa Barbara,3.0,40,99.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+KD9-X5AykKmiZszrMepjhQ,Homage,NV,Reno,4.0,598,39.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+f8p3fbPnCXeYFpygOgbiqg,McDonald's,NV,Reno,2.0,52,126.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+OZnQZ4sZRwd7L1jMc7pv2w,Sol,NV,Reno,5.0,25,33.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+5GUA13zYgw4_8F6qUMU_LA,Green Star Coffee,CA,Santa Barbara,4.5,63,86.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+2w2L1VAFAY89zcKtPC20jA,Magpie Coffee Roasters,NV,Reno,4.5,100,49.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+GOiJ4IggzshvIdW7Az8VNg,Reno tea bar,NV,Sparks,3.5,28,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+fVx8Wk9AnV7PAQlheG_y5w,The Little Donut,NV,Sparks,3.5,38,102.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+ZeSfX_NTmOm48hK3kQRxfg,7-Eleven,NV,Reno,4.0,12,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+zZrDoiQIUmiVkifJx0h_KA,Old Town Coffee Downtown,CA,Santa Barbara,4.5,8,77.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+uttovmgZMrYTv-lW859tjg,La Brea Bakery,NV,Reno,2.0,17,105.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+vf81tOiPd08VGI28EkB6OA,McDonald's,NV,Reno,1.5,76,124.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
+qPPE4N1zb-lQfAV-Zu15CQ,Bibo Coffee & Gelato - Midtown,NV,Reno,4.0,72,70.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+-9r8nAzWyRSLxBWt8uQOdA,Hana Kitchen,CA,Isla Vista,3.0,328,102.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0
+6Zs_1sQFBUSA_K0c7x_Mpg,Num Num Boba,NV,Reno,4.5,15,55.5,1.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+kb2Zvig0OTEqlA1xS2lakA,Truckee Bagel Co,NV,Reno,4.0,189,60.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+EZpbFQJEgo00XNlKJe-4ew,The Spice & Tea Shoppe,NV,Reno,5.0,127,37.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+J7TNypXgpjMFS7Rp3HXYuA,Einstein Bros Bagels,NV,Reno,3.5,8,45.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+opXKYWR9jYc7ZdQsjfQSDA,Hub Coffee Roasters,NV,Reno,4.0,47,33.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+6RBrYMiAf8jFJI4fDoQpcw,De La Guerra Dining Commons,CA,Santa Barbara,3.0,6,23.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
+M0NT6MBWg5-76wyQXMzJWg,Bluefin Poke,NV,Reno,4.5,107,42.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+kyrqWqmgn65uVa2oTowAGA,Bibo Coffee & Gelato - Southcreek,NV,Reno,3.5,117,61.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+jnZR1Urkc3BtZxEdSctBVw,Red Rock Spring Water,NV,Sparks,4.5,14,43.5,1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+woJ6EMlZtBtpl8kG7aoffw,Ginna's Cafe,NV,Sparks,4.0,29,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+SYHDOHRNAH-2xsw3XB5qbg,The Shop Kitchen,CA,Santa Barbara,4.5,1108,36.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+b36EeutJRvowZMr9TpQm0w,Lighthouse Coffee,NV,Sparks,4.5,238,79.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+apdwYbDYSOgD89eEa8yDcw,McDonald's,CA,Santa Barbara,2.5,40,135.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+yL1yC5OOawjSamAb9Wjm5A,Lemon & Coriander,CA,Goleta,5.0,23,40.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+wX4ap0Qy5ZK6Hy2iKvBqXA,"The Pasta Shoppe, LLC",CA,Santa Barbara,4.0,51,76.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Swk_Fdv-gRY8zUT2ft18Kg,Starbucks,CA,Santa Barbara,3.5,26,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+wEtG1X39TB6c78OlkKrVyw,Red Hut Cafe,NV,Reno,3.0,133,63.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+awmy82IdpCC8xK56tO4IEw,Starbucks,NV,Reno,3.5,22,63.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+IrKk13yo5Wx8rAjlN-PZMQ,Too Soul Tea Co.,NV,Reno,4.5,167,84.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+EAApVzr9Uib9rvDs67RsNA,Starbucks,NV,Sparks,3.0,50,95.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+U_NagvNEa4k150qLgul_zw,Franz's Backstube Austrian Bakery and Fine Pastries,NV,Reno,4.0,157,55.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+Kg71HUigI1rnY3UMFiLx0w,Tangonadas,CA,Santa Barbara,4.5,67,56.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+hGUr1HxLfqvhQC1AG8kkVg,Coffeebar Roastery,NV,Reno,5.0,20,38.0,1.0,,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+-J_HhUwt5pPiHRNf_m7rHw,7-Eleven,NV,Reno,3.5,8,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+WPlzKv5eZLC1-1qq64bZQw,Fairly Grounded Coffee and Tea,NV,Reno,4.0,15,66.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+-0iIxySkp97WNlwK66OGWg,Truckee Bagel Company - Midtown,NV,Reno,3.5,219,49.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+aiTr5RX3RkAwQeCswBaL5g,Taster's Paradise Mobile Cafe' & Bakery,NV,Reno,3.5,11,37.5,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+x8xBo3sEACCBBFWXMptnog,Perk Up Coffee Shop,NV,Reno,4.0,37,33.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+EM1P1u4ihl1Ritzm-P14iQ,Starbucks,NV,Sparks,4.0,49,104.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+oyJdcjCTGEM2KiGqyJaFwA,Workzones,CA,Santa Barbara,5.0,17,36.0,1.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+G7fe-mubzI2hrVlYA7WftA,Pianissimo Coffee and More,NV,Reno,4.5,60,39.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+yi1qt3cUK-RojZPXEjVFXQ,Starbucks,NV,Reno,3.5,50,83.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+13N2olEEZ3E6rshOriEGSQ,Jolt -N-Java,NV,Sparks,2.5,12,77.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+uvb3NcpqBEaCrrcyfNF-wA,Starbucks,CA,Carpinteria,2.5,81,96.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+o2547RNviHXFBXIzGTatlg,Joe's Good Java,NV,Reno,4.0,5,45.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+ErW31qKCSDBc_oZ4DCziww,Bibo Coffee & Gelato - Downtown,NV,Reno,3.5,86,33.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+winkCYdiTroKdbPbV0DfRA,Biscotti's,NV,Reno,3.5,494,104.5,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+CwL56LgcMz7Bvi4xODHVSw,La Arcada Bistro,CA,Santa Barbara,3.5,144,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+THSP3XyEjOgqpXcqwJoCyQ,168 Chinese & Sushi,NV,Reno,4.0,139,60.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+sc-ODc3ldfGGBOPy_k1uig,Brickhouse Bakery,NV,Reno,4.0,10,102.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+TqE83vo_rs4h4EycnuLI6g,Peet's Coffee,CA,Santa Barbara,4.0,38,86.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+8aEHSfVjOUC7XSJw3xwrqg,7-Eleven,NV,Reno,2.0,6,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+bp482wqF6v80AltDNlPDfw,The Blue Owl,CA,Santa Barbara,4.5,530,67.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+3sQehkDWhJVtYQ90MUMRNw,Zagol Ethiopian Restaurant,NV,Reno,4.5,83,24.0,1.0,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+hPzPpfSjgQkpWCD7YjcY-A,Lilac Pâtisserie,CA,Santa Barbara,4.5,588,38.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0
+VvoRA1KLjWs7pUq_mXvHpw,7-Eleven,NV,Reno,2.0,9,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+acqDz7WDsCS3WiLxHVceOg,Café Lido,CA,Santa Barbara,3.5,11,93.0,0.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+II1ZGMmA0BLGV-EmhPkrEA,Gourmet Joe's Hideaway Cafe,NV,Reno,4.5,6,40.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PrsGeNU4XGdl2BEKTiQrQg,Urban Beets,NV,Reno,4.0,5,74.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0
+4VXVP21v4Xec6C2mnnBnGw,Archie's Giant Hamburgers & Breakfast,NV,Reno,4.0,597,111.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+TlvnDLrM4p2udHfeUwL82A,SouthCreek Pizza,NV,Reno,4.5,544,38.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+QpsBZDw-fE5r5_M6Vto_qA,Cafe Equilibrium,CA,Goleta,4.0,95,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+uoU7b-XfnWJfJ0jVa7_Uog,Cafe Capello,NV,Reno,4.5,72,66.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+DRa9zJ55Gnc7UHQV4sDh8g,See See Motor Coffee,NV,Reno,4.5,89,46.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+icGg8xgDJVufg-xptMrDGw,Denny's,CA,Santa Barbara,2.5,158,168.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+PUDTWmMzevJdvsueEmnYqw,Hochaya,CA,Goleta,4.5,35,59.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+USvBH2Pqr3ZUDKwo12_FKw,Espresso To Go,NV,Reno,4.5,9,50.5,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+ywBRJjqtj2xIfsWzs8ungg,Taste of Chicago,NV,Reno,3.5,332,47.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+sgCUMv2spV-tpCHWBO1Etg,Lighthouse Coffee,NV,Sparks,4.0,7,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+XRmk-rUh2VknJs4tT7QB2A,Starbucks,NV,Reno,2.0,86,108.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+95NWdx75Gwy4r_IGGuCnmQ,Juice N Things,CA,Carpinteria,4.0,25,62.0,1.0,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+Qsd_S2f7fNFqngx2amRE7A,Sojourner Cafe,CA,Santa Barbara,4.0,276,66.0,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+RdFgbrE_8sf6NImEMopaPQ,Beachbreak Cafe,CA,Santa Barbara,3.5,141,52.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+84fKFTKnYwc8PijJdMkkLQ,7-Eleven,CA,Carpinteria,2.5,23,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+DBIs8znvD-RUy9rFsKiJUQ,Cafe Whitney,NV,Reno,4.5,38,30.0,1.0,,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0
+R_8S3Iuhpzoi3nM-xq3kcw,The Daily Grind,CA,Santa Barbara,3.5,101,56.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+jrSC1bwN2lz9dVBrNTejSg,Jack's Bistro & Famous Bagels,CA,Carpinteria,3.5,204,54.5,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+SF35XOX6vmx_NMzoQ7RLkw,Starbucks,NV,Sparks,2.0,12,107.5,1.0,,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+b5hxsRw76UUXcotxlCipuQ,Los Arroyos Mexican Restaurant & Take Out,CA,Montecito,3.5,353,72.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+vYRqUvqE7T7rnHjLjTB2tQ,Little Dragon Restaurant,NV,Sparks,4.5,24,18.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+U41FZCI4nQIcH8nLR8i1eA,Cosmic Coffee,NV,Sparks,4.5,23,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+s4k1P9FHfPUzw3dqXRp7eA,LOKUM Turkish Delight & Baklava,CA,Santa Barbara,4.5,234,66.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+eQo42s9IYFnLbRkFFU86ww,Classic Rock Coffee - Reno,NV,Reno,4.5,80,53.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+_TEWOkqBWDtNigjujuPQfw,7-Eleven,CA,Santa Barbara,2.5,11,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+C-zgOpqD2K0xDJU4ty7zKg,Honor Market,CA,Santa Barbara,4.5,57,74.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+0RxU5OglQyPVtLKC1LPgsA,Bree'osh,CA,Santa Barbara,4.5,497,40.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+DOfiulOub9hVPBCtiDl9Fw,Lucky Penny,CA,Santa Barbara,4.0,643,62.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+AorcIbAAOJI7z0CBwICwoQ,7-Eleven,CA,Santa Barbara,2.5,11,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+Ij5cfoShFFmDWVPaSGitLQ,Peet's Coffee & Tea,NV,Sparks,3.0,5,0.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+soaZ7_oU7xcphlw6gpWblg,Starbucks,CA,Santa Barbara,3.0,47,112.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+VAIOtbsxdNmuhUKkQZFRlA,Renaud's Patisserie & Bistro,CA,Santa Barbara,4.5,524,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+z5N7vgaNSBpjKT_gbY53sw,Spudnuts Donuts,CA,Goleta,3.5,58,77.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+_BreSZ3-mTEJYqJ1Ot7Akg,Holey Schmidt Donuts,NV,Reno,4.0,409,25.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,1.0
+qTGVwZouVL6AbRILdtwSlw,Courthouse Cafe,NV,Reno,3.0,15,40.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+uVtTkB1EVevu-0EIQygVMg,Starbucks,NV,Sparks,3.0,41,101.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+HJ_rOClY2RPrdervYopKmQ,Mosto,CA,Santa Barbara,4.0,96,33.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+iMTjejk6apJKzCukZnDw5A,Jeannine's Bakery & Restaurant,CA,Montecito,4.5,650,36.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+r5sQtvsO4OVJgEH5H3uEAg,Starbucks,CA,Santa Barbara,2.5,73,84.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+WTrmBvsI65Zk5SvRweNZkw,Starbucks,NV,Sparks,2.5,12,78.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+GMc8-oh5IAWYi4j-Ac-ppA,Java etc.,NV,Reno,3.0,9,130.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Cxh7HIPRhIr_DIetWp3jAg,McDonald's,NV,Reno,2.5,27,119.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+XUEP6erHkEWyGzR0j0rrvw,La Brea Bakery,NV,Reno,2.5,23,105.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DIsakzk-hTU48OEhqYIf7w,The Basement,NV,Reno,4.0,67,78.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+8dsMAUIA8Xk-2B0qrDHSnw,McDonald's,NV,Sparks,2.0,17,112.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+qsc66GLioJicWLYn7VG9LQ,Spa Café,CA,Goleta,3.5,8,42.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+qgwOoCqT86uzrAoDAcWU1w,Composition Cafe,NV,Reno,4.0,30,79.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+3Jk9lNDPhmUS8PC5CrY4sg,Krispy Kreme,NV,Sparks,3.0,59,122.5,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+vbNmk49PJji5pC3JhniMOw,Pneumatic Diner,NV,Reno,4.0,189,80.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+9D--6413BnOOSqlbCFIGkA,Lighthouse Coffee,NV,Reno,5.0,7,38.5,1.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+2WHu0k5VVM1Pn9AFzkSBlA,Here's the Scoop,CA,Montecito,3.5,109,61.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+aCAsjSh0aaaq8UsPHGtclQ,Sunset Cove,NV,Sparks,2.0,7,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+XgehM3pBZWuXi45J2dqRJQ,Green Table,CA,Santa Barbara,4.5,319,34.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+A5ZgUhlg3XEbm46SDiZwhg,Carmelita's Crazy Cravings,NV,Reno,5.0,33,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fqStx0SvwMFChX_HIdUeEQ,Wine Cask,CA,Santa Barbara,4.0,322,19.5,1.0,3.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+-eCe9GfRqhbMaB9CylkBSg,7-Eleven,NV,Reno,2.5,7,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+bF30LqHuXYtR8ibaRbq2kw,Zizzo's Coffeehouse,CA,Goleta,3.5,166,93.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+Eo0psaCr_gcty9QqyUy46Q,Café Central,NV,Reno,2.5,346,33.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+hjRxa6xpKOwnbUgGvVCE5Q,Sparks Coffee Shop,NV,Sparks,4.5,807,30.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+lIU2BU8iWOoXBXaxdy7V_w,Starbucks - Reno,NV,Reno,3.5,50,65.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+spm1KEE-5jAJVTE0ldpzFA,Sweet creams,CA,Santa Barbara,4.0,6,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+xYca_PTaOxhNm9ky7oExvg,The Human Bean,NV,Sparks,4.0,16,112.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+WfN-VixjWAbfe8efJEs3yQ,Renaud's Pattiserie,CA,Montecito,3.5,57,53.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+3GcXSZQ65Np5N1N4a-DK_w,Restaurant OPEN,CA,Santa Barbara,4.5,98,14.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+UMaNwuJBwO0I_7qJnhjECQ,Vertical Coffee Roasters,NV,Reno,4.5,16,22.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+YNP9czXLpMaEXZh4Bpi1Jw,Lakeside Bar & Grill,NV,Reno,4.0,110,72.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+YNkDhu7Ba36mUR6vN0491g,7-Eleven,NV,Reno,3.0,7,168.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ZcbhsniFmXZFW8ccPvsSLA,Coffee Collaborative,CA,Isla Vista,3.5,60,116.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+b8jbsZHfrGZCVPjI9KXV_g,McDonald's,CA,Carpinteria,2.0,70,168.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+nB0dV8yPv29F3-CFMPG8cw,Joe's Cafe,CA,Santa Barbara,3.5,726,105.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+tzSKydKgvXCDp2bzdynoLQ,Starbucks,NV,Sparks,2.5,7,94.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+UuRZpgZsHX7PyykHV3wbZg,Crushcakes & Cafe,CA,Santa Barbara,4.0,761,56.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+9RDKqyqXJcupSnA2vCIs_A,Cafe Luna,CA,Summerland,4.0,85,89.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+UT9vP1Ww8OlL4nzBOKBCOQ,Hobey's Casino & Restaurant,NV,Sun Valley,4.0,153,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+kbWKwvLXfJm5sLVfw-Foww,Jill's Place,CA,Santa Barbara,4.0,325,55.25,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+C8TTeu2ZgPTOLQ-wQsPXXw,5 Star Saloon,NV,Reno,3.5,100,74.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
+Q5whIn3ifZy4jpwDkiRn2Q,Silver State Coffee,NV,Reno,4.5,6,53.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+2YnQAJdeFrcgPa8MqIYcDg,Cody's Cafe,CA,Santa Barbara,3.5,294,56.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+_tTKZJ89dS404ZEVnHa-Cw,Starbucks,CA,Goleta,2.5,75,107.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+t7TqCOZ6p6Do_SMhTcVDMQ,Grand Café,NV,Reno,2.5,361,72.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0
+KIpghikMrBbxx75tx_ZJUw,Starbucks,CA,Santa Barbara,3.0,13,0.0,1.0,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+D_-w6oXNj_33E7-urbSLLQ,The Human Bean,NV,Reno,4.5,150,80.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+B_q2xoAgTyn6U4YNEc3kSw,China Pavilion,CA,Santa Barbara,3.5,348,35.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+Dr2tI5lPLiXQrE0iZRim9A,Kotuku Elixir Bar & Superfood Store,CA,Santa Barbara,4.5,38,68.5,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+dccCnHSZyPCst2mn7Jkw-A,Hub Coffee Roasters,NV,Reno,5.0,17,54.0,1.0,,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+2Ec7JLAHcJo4Aj2yvqfkiA,Gold Ranch Coffee Bar,NV,Verdi,4.0,21,21.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+MU6oyNoZoYZJtEZvsrnwOQ,Lighthouse Coffee,NV,Sparks,4.5,175,68.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+pWuoHHu0LuVrD0HjadDygg,The Stone House Cafe,NV,Reno,3.5,1065,60.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+2E5fh57OvOQMWwxxEOkN8A,SIU Korean BBQ,NV,Sparks,4.0,316,71.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0
+q0DRuEAxE5i57xNSTrDP4Q,Naan Stop,CA,Isla Vista,3.5,323,84.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0
+agXGQ4DH4SqxtJxBHKjWIg,Muddy Waters Cafe,CA,Santa Barbara,4.0,48,70.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+Wbj2EbQQlGgYpFjJZVTAkw,Le Crêpe Café,NV,Reno,4.0,33,79.5,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+ws0mjFrkanX_sXoUVRh8Uw,Jitters Coffee,CA,Santa Barbara,3.5,63,106.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+TI3Rydw47yBMzY1oW2wJUg,Elsie's,CA,Santa Barbara,4.0,152,112.5,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+iQ_JNYzwvhSsToR4EHl4cA,Le Macaron French Pastries,CA,Santa Barbara,4.0,52,50.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+cpaMCrmG7WK10tJ4c_GXow,Sanba IM,CA,Goleta,4.0,24,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+p1BPKxK3LFyy9lkXGA-0zA,Rivers Edge Cafe,NV,Reno,4.0,12,40.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0
+lKCEFd8Z7tZiBiLT2J741g,Little House On Center St.,NV,Reno,4.5,174,49.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+E0EQvhXujng20fskiuZWBg,Starbucks,NV,Sparks,2.5,39,81.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+YgbIbmfDlB-bZSsjuIfKwA,Jack's Bistro and Famous Bagels,CA,Santa Barbara,3.5,219,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+7Hl4TcFcgdW2-TR-mhk27A,Walden's Coffeehouse,NV,Reno,4.5,64,44.0,1.0,,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+DPfp-da67QVFP5wg6Bq3Mw,The Downunder Cafe,NV,Reno,2.0,9,7.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+a3p47WxYVo0BZGJoP1O0qA,My Favorite Muffin,NV,Reno,4.0,236,56.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+Y0izXh4Dv1_YU68tn43Xiw,Handlebar Coffee Roasters,CA,Santa Barbara,4.5,221,36.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+594Hh8RZg__h6DV83cYMmQ,The Bagel Stand,NV,Reno,4.5,12,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+hU4gqTl636TJrxlI2WXZSg,Dreamer's Coffee House & Deli,NV,Reno,4.0,127,77.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+2N9WHETHcYJsfYpHQ-qN_A,Crushcakes Cafe & Simply Pies,CA,Goleta,3.5,156,56.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0
+LrkrvFHlnD1BHj2b2w0JpA,Oxbow Cafe & Bistro,NV,Reno,4.0,276,70.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+BErYojCJSO959vzaz9JclQ,Savoy Cafe & Deli,CA,Santa Barbara,4.5,571,51.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+Ddg-J_j0YFErk7wpMtH_0A,Starbucks,NV,Reno,3.0,67,110.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+IbpTkANgK_6LgJ_DaS94YA,Iron Skillet Restaurant,NV,Sparks,3.5,38,168.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
+5YKOs_VGFHgUv7DSMLaQeA,Finestra Cafe,CA,Santa Barbara,3.0,5,0.0,1.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3tvi-OJ_-iK1ecjzSaH-oA,Hook And Press Donuts,CA,Santa Barbara,4.5,217,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+B5Vh5dkky4N0y7Vc3yNviQ,Dutch Bros Coffee,NV,Reno,4.0,118,126.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+Vve4nN1s8XZzYug_YaY_aA,The Isles Teashop,NV,Reno,4.5,50,29.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+0mUVD5sDXZjd66XwATN8XA,Phresh Teas,CA,Goleta,4.0,103,54.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+j2J573HOZM9afnW_t67sjw,Ferino Distillery,NV,Reno,5.0,36,44.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+2wd7o7XbEywXTUqx6RITzg,Lighthouse Coffee,NV,Reno,4.5,46,60.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+tiSIiacOzflrMMwJEXVFIA,Dunkin',CA,Santa Barbara,3.0,93,91.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0
+Thksu3pRk_QKFmKYa23mow,Starbucks,NV,Reno,3.0,97,119.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+jRmAvtGQfJz9Ye-Jq5gbUw,Vida Coffee,NV,Reno,4.5,18,44.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Y7CyVy4yXkpYUfQyKu9ZYw,Enchanted Cat Cafe,NV,Reno,5.0,8,59.5,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ODvaMIpjD6bHiwQ9-kmECw,Vices & Spices From Around the World,CA,Santa Barbara,4.5,81,75.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+9_uigKs9GCwg9dFKkq_Kfg,Starbucks,CA,Santa Barbara,2.5,74,98.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+C5p3AtEAR_Iim6JjNARmBw,The Laughing C A T,NV,Reno,5.0,51,42.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+CMovGmSWFCjhOBOYiymetg,Westside Cafe & Coffee Company,NV,Reno,4.0,123,64.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+MghG5uCGyoo827hSH8VK5w,Yu De Thai Restaurant,NV,Sparks,4.5,58,17.5,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+SBs30RyeoiEU2LjeiH1YFQ,Crushcakes & Co,CA,Montecito,4.5,13,66.5,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+a5TaDLChZDSgZ-en1sxNpw,McDonald's,NV,Reno,1.5,121,168.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,4.0,0.0,1.0
+eO47HI7ZqidXMkHyaOsf-g,Starbucks,NV,Reno,4.0,34,78.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0
+wAPXYljzn9YDTvQqqL54pw,7-Eleven,CA,Santa Barbara,3.0,8,168.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+VUilII_2y40BYq0FatRf3A,7-Eleven,CA,Goleta,3.0,11,168.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+2puBfTq70dyDFkRlkwm1mg,Code Coffee,NV,Reno,4.0,98,76.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+KsJP_BEXKQV9nvOmTbgbVQ,Joe's Good Java,NV,Reno,3.5,10,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+urEO2v7ydkJ-j9tUUmXpZQ,Starbucks,CA,Goleta,1.5,7,105.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RYfl2IphOq0xFN0N8pzXQQ,Crème Cafe,NV,Reno,4.0,234,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0
+0f0l62WKla-j2cfnPn7P2Q,The Coffee Bean & Tea Leaf,CA,Goleta,3.5,70,95.5,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+WLkrmAiAtVRMgSQkVIFV6g,Starbucks,NV,Reno,2.5,17,102.0,1.0,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+BBBT3Mogjo3hPPA0de--Dw,Le Café,CA,Isla Vista,2.5,10,33.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+hDr_bt6MEwlGvGCCKzyzhg,Goleta Coffee Co and Loca Vivant Kitchen,CA,Santa Barbara,4.0,187,46.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0
+SJ_hPrUQa0l3PS2vQi-0yw,The Shoe Bar & Grill,NV,Reno,4.5,8,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+AFk4mirRQ7RWYCDGEPDZew,Mugshots Espresso,NV,Reno,4.5,20,51.0,1.0,,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Yvb0rmlmEFNLIRLfCIjVig,Basik Açai Cafe,NV,Reno,4.5,91,44.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0
+izSgTrqebu8bN8ONOCs6cQ,Oat Bakery,CA,Santa Barbara,5.0,123,31.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+mLWZQtqebGFaHGN6Ix6Tew,Crave Cafe,NV,Reno,5.0,5,66.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+8IV78gQwTH-eZgbfFS_plg,Lost & Found Cafe,CA,Carpinteria,5.0,5,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
